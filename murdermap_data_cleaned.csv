@@ -1,0 +1,663 @@
+Date,Victim Name,Victim Gender,Victim Nationality,Weapon,Killer Name,Killer Gender,Killer Nationality,Status,Category,Title
+29/12/2015,Jeroen Ensink,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Holloway stabbing: Dr Jeroen Ensink
+26/12/2015,Patrick Mulroe,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Boxing Day stabbing: Patrick Mulroe
+25/12/2015,Harbhajan Singh Rooprai,Male,British,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Forest Gate fire: Harbhajan Singh Rooprai
+19/12/2015,Mambero Ghebreflafie,Female,British,Knife,Tedros Kahssay,Male,British,Solved,Domestic,Stabbed in Winchmore Hill: Mambero Ghebreflafie
+13/12/2015,Amon Kent-Blake,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,"Triple Murder in Erith: Sian, Zachary and Amon Blake"
+13/12/2015,Amon Kent-Blake,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,"Triple Murder in Erith: Sian, Zachary and Amon Blake"
+13/12/2015,Amon Kent-Blake,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,"Triple Murder in Erith: Sian, Zachary and Amon Blake"
+11/12/2015,Jermaine Baker,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Police shooting: Jermaine Baker
+07/12/2015,Kabba Kamara,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,City stabbing: Kabba Kamara
+03/12/2015,Amirali Manji,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Harrow Assault: Amirali Manji
+02/12/2015,Ravinder Jutla,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Ealing death: Ravinder Jutla
+01/12/2015,Gary Scott,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager stabbed in Finsbury Park: Gary Scott
+25/11/2015,Viadas Sakalauskas,Male,Lithuanian,None,NULL,NULL,NULL,Unsolved,Uncategorised,Canning Town death: Viadas Sakalauskas
+25/11/2015,Neel Croos,Male,British,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Mitcham attack: Neel Croos
+23/11/2015,Vasilaki Kakko,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teen stabbed in Holloway: Vasilaki Kakko
+17/11/2015,Pawel Chwalinski,Male,Polish,None,NULL,NULL,NULL,Unsolved,Uncategorised,Tottenham park death: Pawel Chwalinski
+17/11/2015,Terry Wiggins,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Stabbing in Erith: Terry Wiggins
+15/11/2015,Daniel Mantina,Male,Italian,Knife,NULL,NULL,NULL,Unsolved,Domestic,Ladbroke Grove stabbing: Daniel Mantina
+15/11/2015,Juris Butans,Male,Latvian,None,NULL,NULL,NULL,Unsolved,Uncategorised,Holloway Assault: Juris Butans
+11/11/2015,Bianca Shepherd,Female,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Death in Uxbridge: Bianca Shepherd
+09/11/2015,Alfie Stone,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager stabbed in Ickenham: Alfie Stone
+08/11/2015,Che Labastide-Wellington,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Birthday Party Attack: Che Labastide-Wellington
+08/11/2015,Haile Langa,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Kilburn stabbing: Haile Langa
+29/10/2015,Imelda Molina,Female,Filipino,Knife,NULL,NULL,NULL,Unsolved,Robbery,Cricklewood stabbing: Imelda Molina
+28/10/2015,John Breen,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Stratford station attack: John Francis Breen
+26/10/2015,Florin Onea,Male,Romanian,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Ilford stabbing: Florin Onea
+18/10/2015,Jerome Scott,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Hackney stabbing: Jerome Scott
+16/10/2015,Usaama Ali,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Acton stabbing: Usaama Ali
+12/10/2015,David McKenna,Male,British,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Barnet Fire: David McKenna
+11/10/2015,Josh Hanson,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Eastcote stabbing: Josh Hanson
+08/10/2015,Usha Patel,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Cricklewood Murder: Usha Patel
+29/09/2015,Mustafa Lanleyin,Male,British,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Enfield murder: Mustafa Lanleyin
+26/09/2015,Nassem Galleze,Male,British,Other,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager died in crash: Nassem Galleze
+26/09/2015,Moses Fadairo,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Hackney Shooting: Moses Fadairo
+24/09/2015,Sebastiano Magnanini,Male,Italian,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Body found in canal: Sebastiano Magnanini
+23/09/2015,Tadas Jarusevicius,Male,Lithuanian,None,NULL,NULL,NULL,Unsolved,Uncategorised,Plumstead death: Tadas Jarusevicius
+17/09/2015,Hamdi Jiumale,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Death in Enfield: Hamdi Jiumale
+14/09/2015,Mohammed Dura-Ray,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teen stabbed in Walworth: Mohammed Dura-Ray
+28/08/2014,Gabriel Kovari,Male,British,Poison,NULL,NULL,NULL,Unsolved,Uncategorised,Four deaths in Barking
+14/09/2015,Zakariyya Islam,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Whitechapel stabbing: Zakariyya Islam
+10/09/2015,Brian Darbyshire,Male,British,None,Claire Darbyshire,Female,British,Solved,Domestic,Suffocated by his daughter: Brian Darbyshire
+09/09/2015,Hidir Aksakal,Male,Turkish,None,NULL,NULL,NULL,Unsolved,Uncategorised,Body in Epping Forest: Hidir Aksakal
+05/09/2015,Karen Reid,Female,British,Knife,Paul Mallin,Male,British,Solved,Mental Illness,Care home killings: John Down and Karen Reid
+05/09/2015,Karen Reid,Female,British,Knife,Paul Mallin,Male,British,Solved,Mental Illness,Care home killings: John Down and Karen Reid
+04/09/2015,Marcel Addai,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teen stabbed in Hoxton: Marcel Addai
+03/09/2015,Ruhel Ahmed,Male,British,None,Juhel Ahmed,Male,British,Solved,Domestic,Killed by his brother: Ruhel Ahmed
+03/09/2015,Shaquan Fearon,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager stabbed in Brockley: Shaquan Fearon
+31/08/2015,Mantas Augenas,Male,Lithuanian,Knife,Bernardas Petreikis,Male,Lithuanian,Solved,Alcohol Related,Jealousy and Murder: Mantas Augenas
+23/08/2015,Jamir Ali,Male,British,Knife,NULL,NULL,NULL,Unsolved,Domestic,Bethnal Green attack: Jamir Ali
+14/08/2015,Elizabeth Nnyanzi,Female,British,None,Peter Kibisu,Male,British,Solved,Sexual,A Family Friend: Elizabeth Nnyanzi
+13/08/2015,Elife Beqa,Female,Albanian,None,Agim Isaku,Male,Albanian,Solved,Domestic,Strangled by her husband: Elife Beqa
+10/08/2015,Ahmed Ahmed,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Plumstead stabbing: Ahmed Ahmed
+08/08/2015,Jerrell Elie,Male,British,Vehicle,NULL,NULL,NULL,Unsolved,Teenage Victim,Brixton attack: Jerrell Elie
+08/08/2015,Marvin Couson,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,13 Years Later: Marvin Couson
+02/08/2015,Natasha Davies,Female,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Chelsea stabbing: Natasha Davies
+30/07/2015,Denisa Silmen,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,East Ham death: Denisa Silmen
+27/07/2015,Jenny Foote,Female,British,None,NULL,NULL,NULL,Unsolved,Mental Illness,Hostel death: Jenny Foote
+19/07/2015,Michael Adegbite,Male,British,Knife,NULL,NULL,NULL,Solved,Robbery,Gumtree robbery: Michael Adegbite
+10/07/2015,Erdogan Guzel,Male,Turkish,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,An Innocent Bystander: Erdogan Guzel
+08/07/2015,Florise Corette,Female,British,None,NULL,NULL,NULL,Unsolved,Domestic,Lewisham death: Florise Corette
+03/07/2015,Lorraine Barwell,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Custody officer death: Lorraine Barwell
+02/07/2015,Romario Green,Male,British,Gun,Denny De Silva,Male,British,Solved,Gang,Sudbury shooting: Romario Green
+29/06/2015,Granville Thomas,Male,British,Knife,Dwayne King,Male,British,Solved,Uncategorised,Harlesden Stabbing: Granville Thomas
+20/06/2015,Renea Campbell,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Abbey Wood party stabbing: Renea Campbell
+19/06/2015,Arthur Walters-Girout,Male,British,Blunt Object,Raymond Sykes,Male,British,Unsolved,Uncategorised,Death in Sidcup: Arthur Walters-Girout
+17/06/2015,Ogarra Dixon,Male,British,Gun,Shaden Cadette,Male,British,Solved,Uncategorised,Brixton shooting: Ogarra Dixon
+13/06/2015,Tommy Blackmore,Male,British,Knife,Lloyd Smythe,Male,British,Solved,Uncategorised,A Single Punch: Tommy Blackmore
+11/06/2015,Phyllis Hayes,Female,British,Knife,Mark Hayes,Male,British,Solved,Domestic,Death in Forest Gate: Phyllis Hayes
+10/06/2015,Stefan Appleton,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Islington stabbing: Stefan Appleton
+05/06/2015,Lukey Maxwell,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Tottenham stabbing: Lukey Maxwell
+02/06/2015,Nathan Murray,Male,British,Knife,NULL,NULL,NULL,Solved,Teenage Victim,Teen stabbed in Sydenham: Nathan Murray
+01/06/2015,Peter Lee,Male,British,Vehicle,NULL,NULL,NULL,Unsolved,Uncategorised,Tooting death: Peter Lee
+12/05/2015,Neha Rethishkumar,Female,British,None,Rethish Kunjunny,Male,Indian,Solved,Domestic,Mother and daughters strangled in Chadwell Heath
+12/05/2015,Neha Rethishkumar,Female,British,None,Rethish Kunjunny,Male,Indian,Solved,Domestic,Mother and daughters strangled in Chadwell Heath
+12/05/2015,Neha Rethishkumar,Female,British,None,Rethish Kunjunny,Male,Indian,Solved,Domestic,Mother and daughters strangled in Chadwell Heath
+10/05/2015,Marta Ligman,Female,Polish,None,Tomasz Kocik,Male,Polish,Solved,Domestic,Body in a suitcase: Marta Ligman
+04/05/2015,Mahad Abdi Abshir,Male,British,None,Mustafa Abdalah,Male,British,Solved,Alcohol Related,One punch killing: Mahad Abdi Abshir
+04/05/2015,Wadid Barsoum,Male,British,Blunt Object,Taras Nykolyn,Male,Ukrainian,Solved,Mental Illness,Killed by his cellmate: Wadid Barsoum
+29/04/2015,Ioan Sudito,Male,Romanian,Knife,Massimo Fishti,Male,Albanian,Solved,Uncategorised,Leyton stabbing: Ioan Sudito
+21/04/2015,Ola Raji,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Peckham shooting: Ola Raji
+16/04/2015,Asim Marku,Male,Albanian,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Restaurant stabbing: Asim Marku
+07/04/2015,Abdul-Hadi Arwani,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Former imam shot dead: Abdul-Hadi Arwani
+28/03/2015,Vanessa Santillan,Female,Mexican,None,Joaquin Gomez-Hernandez,Male,Mexican,Solved,Domestic,Killed by her husband: Vanessa Santillan
+28/03/2015,Grzegorz Raczek,Male,Polish,None,Bartosz Rejmanski,Male,Polish,Solved,Alcohol Related,Fight in East Ham: Grzegorz Raczek
+24/03/2015,Terry Longman,Male,British,Blunt Object,Giuseppe Lomedico,Male,Italian,Solved,Alcohol Related,Hammer Attack: Terry Longman 
+17/03/2015,Nigel Yon,Male,British,Knife,Dean Palmer,Male,British,Solved,Mental Illness,Neasden stabbing: Nigel Yon
+09/03/2015,Ayache Bakir,Male,British,Knife,NULL,NULL,NULL,Solved,Alcohol Related,Tottenham stabbing: Ayache Bakir
+07/03/2015,Lucy Ayris,Female,British,Knife,Billy White,Male,British,Solved,Domestic,Hayes stabbing: Lucy Ayris
+27/02/2015,Sophia Christopher,Female,British,Other,Shelley Christopher,Female,British,Solved,Child Killings (3 to 12...,Notting Hill deaths: Richard Brown and Sophia Christopher
+27/02/2015,Sophia Christopher,Female,British,Other,Shelley Christopher,Female,British,Solved,Child Killings (3 to 12...,Notting Hill deaths: Richard Brown and Sophia Christopher
+27/02/2015,Alan Cartwright,Male,British,Knife,Joshua Williams,Male,British,Solved,Teenage Victim,Teenage cyclist stabbed on CCTV: Alan Cartwright
+24/02/2015,Terry Isaacs,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Tulse Hill Assault: Terry Isaacs
+24/02/2015,Tracy Goodwin,Female,British,Knife,NULL,NULL,NULL,Unsolved,Domestic,Kidbrooke stabbing: Tracy Goodwin
+24/02/2015,Mantas Ziedavicius,Male,Lithuanian,Other,Hennaidy Yelizarov,Male,Ukrainian,Solved,Alcohol Related,East Ham stabbing: Mantas Ziedavicius
+16/02/2015,Gokhan Durmus,Male,Turkish,Knife,Tyrell Auguste,Male,British,Solved,Drug Related,Hackney stabbing: Gokhan Durmus
+13/02/2015,Zohra Amrani,Female,British,None,NULL,NULL,NULL,Unsolved,Domestic,Paddington deaths: Hassan and Zohra Amrani
+13/02/2015,Zohra Amrani,Female,British,None,NULL,NULL,NULL,Unsolved,Domestic,Paddington deaths: Hassan and Zohra Amrani
+09/02/2015,Linda Mills,Female,British,Knife,Raymond Mills,Male,British,Solved,Domestic,Killed by her husband: Linda Mills
+03/02/2015,Redwan El-Ghaidouni,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Uxbridge shooting: Redwan El-Ghaidouni
+01/02/2015,Clheve Massi,Male,Congolese,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Thamesmead shooting: Chleve Massi
+30/01/2015,Emily Munemo,Female,Zimbabwean,Knife,Gibson Mazikana,Male,British,Solved,Domestic,Killed by estranged husband: Emily Munemo
+30/01/2015,Shaquan Sammy-Plummer,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager stabbed in Enfield: Shaquan Sammy-Plummer
+29/01/2015,Farah Boscolo-Gnolo,Female,Italian,None,Federica Boscolo-Gnolo,Female,Italian,Solved,Baby Killings (0 to 2...,Baby death: Farah Boscolo-Gnolo
+26/01/2015,Oskar Sobczyk,Male,Polish,None,Piotr Sobczyk,Male,Polish,Solved,Baby Killings (0 to 2...,Baby Murder: Oskar Sobczyk
+09/01/2015,Isaiah Ekpaloba,Male,British,Knife,Jaydee Dorsett,Male,British,Solved,"Teenage Victim, Robbery",Drugs dispute: Isaiah Ekpaloba
+08/01/2015,Bilal Mirza,Male,British,Knife,Omar Majeed,Male,British,Solved,Teenage Victim,Teenager stabbed in Marylebone: Bilal Mirza
+06/01/2015,Natalia Czekaj,Female,Polish,Knife,James Richardson,Male,British,Solved,"Domestic, Alcohol Related",Killed by alcoholic boyfriend: Natalia Czekaj
+06/01/2015,Jeremie Malenge,Male,British,Knife,14 year-old boy,Male,British,Solved,Teenage Victim,Homerton stabbing: Jeremie Malenge
+05/01/2015,Harinder Rattan,Male,British,Knife,Sanjay Salhotra,Male,British,Solved,Uncategorised,Southall stabbing: Harinder Rattan
+03/01/2015,Menelaos Aligizakis,Male,British,None,Mark Patten,Male,British,Solved,Uncategorised,Unprovoked attack: Menelaos Aligizakis
+02/01/2015,Leandro Da Silva,Male,Portuguese,Blunt Object,Paul O''Shea,Male,Irish,Solved,Drug Related,Islington Fire: Othamane Majdouline and Leandro Da Silva
+02/01/2015,Leandro Da Silva,Male,Portuguese,Blunt Object,Paul O''Shea,Male,Irish,Solved,Drug Related,Islington Fire: Othamane Majdouline and Leandro Da Silva
+01/01/2015,John Keenan,Male,British,None,Terry Hamer,Male,British,Solved,Uncategorised,New Year's Murder: John Keenan
+01/01/2015,Keith Norbrega,Male,Canadian,None,NULL,NULL,NULL,Solved,Uncategorised,Harlesden Death: Keith Norbrega
+28/12/2014,Yogesh Desai,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Ilford stabbing: Yogesh Desai
+27/12/2014,Hawa Abdullah,Female,Somali,Knife,Abdulqadir Abdullah,Male,Somali,Solved,Domestic,Whitechapel stabbing: Hawa Abdullah
+19/12/2014,Luke Jackson,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Pimlico stabbing: Luke Jackson
+18/12/2014,Alison Morrison,Female,British,Knife,Trevor Gibbon,Male,British,Solved,Uncategorised,Next Door Neighbour: Alison Morrison
+14/12/2014,Christopher John Barry,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Killed by a Boy of 13: Christopher Barry
+12/12/2014,David West,Male,British,Knife,David West,Male,British,Solved,"Domestic, Alcohol Related",Father and Son: David West
+06/12/2014,Joel Adesina ,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager stabbed in Bethnal Green: Joel Adesina 
+03/12/2014,Sannah Javed,Female,British,None,Abu Hussain,Male,British,Solved,Domestic,Killed by her abusive partner: Sannah Javed
+02/12/2014,Maciej Godlewski,Male,Polish,None,NULL,NULL,NULL,Solved,Uncategorised,Edmonton fight: Maciej Godlewski
+30/11/2014,Khiry Ford,Male,British,Knife,Deo Tamale,Male,British,Solved,Robbery,Edmonton stabbing: Khiry Ford
+29/11/2014,Mike Pleasted,Male,British,Knife,Sarah Sands,Female,British,Solved,Uncategorised,Silvertown stabbing: Mike Pleasted
+24/11/2014,Ben Purdy,Male,British,Gun,Michael Bagnall,Male,British,Solved,Teenage Victim,Teenager shot in Bermondsey: Ben Purdy
+21/11/2014,Shaun McSweeny,Male,British,Blunt Object,Colin McSweeny,Male,British,Solved,Domestic,Body found in car: Shaun McSweeny
+01/11/2014,Leeann Foley,Female,British,Gun,Richard Conroy,Male,British,Solved,Domestic,Holloway shooting: Leeann Foley
+31/10/2014,Magdalena Anna Welna,Female,Polish,Knife,Victor Ogundunmade,Male,British,Solved,Mental Illness,Ilford stabbing: Magdalena Welna
+31/10/2014,David Maxwell,Male,British,Knife,Chudi Ajufo,Male,British,Solved,Teenage Victim,Southwark stabbing: David Maxwell
+31/10/2014,Noor Hassan Barre,Male,British,Knife,Kevin Mao,Male,British,Solved,Uncategorised,Middlesex University stabbing: Noor Hassan Barre
+14/10/2014,Olamide Fasina,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Revenge attack: Olamide Fasina
+04/10/2014,Warren Ramdeen,Male,British,Knife,Idris Abdulle,Male,British,Solved,Drug Related,The Gentle Giant: Warren Ramdeen
+22/09/2014,Ricky Cash,Male,British,Other,Finola Cash,Female,British,Solved,Baby Killings (0 to 2...,Baby death in Edgware: Ricky Cash
+28/08/2014,Gabriel Kovari,Male,British,Poison,NULL,NULL,NULL,Unsolved,Uncategorised,Four deaths in Barking
+18/09/2014,Rakesh Desoura,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Death in Uxbridge: Rakesh Desoura
+12/09/2014,Sebastian Hyman-Knight,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Battersea shooting: Sebastian Hyman-Knight
+07/09/2014,Charles Hickox,Male,American,Vehicle,Rostam Notarki,Male,British,Solved,Uncategorised,Hampton death: Charles Hickox
+04/09/2014,Phillip Steels,Male,Irish,Blunt Object,Malachi Lindo,Male,British,Solved,"Drug Related, Mental...",Stranger Murder: Phillip Steels
+04/09/2014,Palmira Silva,Female,Italian,Knife,Nicholas Salvador,Male,British,Solved,Mental Illness,Insane Killer: The murder of Palmira Silva
+03/09/2014,Leighann Duffy,Female,British,Knife,Lloyd Byfield,Male,Jamaican,Solved,Domestic,Killer at large: The murder of Leighann Duffy
+01/09/2014,Unidentified,Male,British,None,NULL,NULL,NULL,Unsolved,Baby Killings (0 to 2...,Death of 10 month old boy
+30/08/2014,Anthony Charlery,Male,British,Knife,Tayo Wesley,Male,British,Solved,Uncategorised,Revenge killing: Anthony Charlery
+28/08/2014,Alice Gross,Female,British,None,NULL,NULL,NULL,Unsolved,Teenage Victim,The disappearance of Alice Gross
+28/08/2014,Gabriel Kovari,Male,British,Poison,NULL,NULL,NULL,Unsolved,Uncategorised,Four deaths in Barking
+26/08/2014,Adrian Young,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Street fight: Adrian Young
+20/08/2014,Mohamed Afzal,Male,British,Knife,Gaurav Sharma,Male,Indian,Solved,Uncategorised,Stabbed by jealous waiter: Mohamed Afzal
+18/08/2014,Charlie Burns,Male,British,Knife,Jakhi Crosdale,Male,British,Solved,"Teenage Victim, Drug...",Hackney stabbing: Charlie Burns
+13/08/2014,Nicholas Stewart,Male,British,Knife,Simeon Scott-Wasey,Male,British,Solved,Uncategorised,Football pitch stabbing: Nicholas Stewart
+10/08/2014,Alex Scott,Male,British,Knife,Kai Steele,Male,British,Solved,Uncategorised,Stabbing in Lee: Alex Scott
+25/07/2014,Peter John,Male,British,Knife,John Nicholles,Male,British,Solved,Uncategorised,Cemetery Killing: Peter John
+13/07/2014,Afyon Saint-Hilaire,Male,British,Knife,Lance Sloley,Male,British,Solved,Drug Related,Downham stabbing: Afyon Saint-Hilaire
+03/07/2014,Zydrunas Laurinavicius,Male,Lithuanian,Knife,Stephen Lansana,Male,British,Solved,Robbery,Hendon stabbing: Zydrunas Laurinavicius
+03/07/2014,Ngoc Giam Dang,Male,Vietnamese,None,NULL,NULL,NULL,Unsolved,Uncategorised,Death in Hackney: Ngoc Giam Dang
+30/06/2014,Philip Silverstone,Male,British,Knife,NULL,NULL,NULL,Solved,Drug Related,Rest home stabbing: Philip Silverstone
+29/06/2014,David Headlam,Male,British,Knife,NULL,NULL,NULL,Solved,Teenage Victim,Unprovoked Attack: David Headlam
+29/06/2014,Tommy Main,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Death in Erith: Tommy Main
+28/08/2014,Gabriel Kovari,Male,British,Poison,NULL,NULL,NULL,Unsolved,Uncategorised,Four deaths in Barking
+15/06/2014,Adam Hird,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Vauxhall death: Adam Hird
+08/06/2014,Ryan Gray,Male,British,Knife,Taylor Fernandes-Nelson,Male,British,Solved,Uncategorised,Highbury Stabbing: Ryan Gray
+01/06/2014,Floarea Nicolae,Female,Romanian,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Edmonton stabbing: Floarea Nicolae
+31/05/2014,James Hunter,Male,British,Knife,Giovanni Dixon,Male,British,Solved,Teenage Victim,Teen stabbed in Sydenham: James Hunter
+29/05/2014,Helen Dillon,Female,British,Knife,Justice Cruickshank,Male,British,Solved,Alcohol Related,Neasden stabbing: Helen Dillon
+27/05/2014,Tahira Ahmed,Female,British,Other,Naveed Ahmed,Male,British,Solved,Domestic,Decapitated by her husband: Tahira Ahmed
+18/05/2014,Ashley Latty,Male,British,Knife,Nicholas Terrelonge,Male,British,Solved,Uncategorised,Dagenham stabbing: Ashley Latty
+16/05/2014,William Boots,Male,British,Poison,NULL,NULL,NULL,Unsolved,Drug Related,Death in Kingston: William Boots
+16/05/2014,Antonio Tommaso,Male,British,Knife,Daniel Osubo,Male,British,Solved,Mental Illness,Fire in New Barnet: Antonio Tommaso
+09/05/2014,Tamara Holboll,Female,British,Knife,Peter Holboll,Male,British,Solved,"Mental Illness, Domestic",Killed by her mentally ill son: Tamara Holboll
+08/05/2014,Ibrahim Haji,Male,British,None,Ahmed Hussein,Male,British,Solved,Mental Illness,Mental Health killing: Ibrahim Haji
+07/05/2014,Ali Huseyin,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Hospital death: Ali Huseyin
+06/05/2014,Jamil Palmer,Male,British,Knife,Mohammed Barre,Male,British,Solved,Teenage Victim,Teenage revenge killing: Jamil Palmer
+06/05/2014,Alim Uddin,Male,British,Knife,16 year-old boy,Male,British,Solved,Teenage Victim,Student stabbed to death in Brixton: Alim Uddin
+27/04/2014,Franciszek Malinkowski,Male,Polish,None,Piotr Jarota,Male,Polish,Solved,Robbery,Body found on wasteland: Franciszek Malinkowski
+24/04/2014,Andrew Else,Male,British,Knife,Ephraim Norman,Male,British,Solved,Mental Illness,Random Attack: Andrew Else
+22/04/2014,Martin Thomas,Male,British,Knife,14 year-old boy,Male,British,Solved,Robbery,Roehampton stabbing: Martin Thomas
+22/04/2014,James Fiennes,Male,British,Knife,NULL,NULL,NULL,Solved,Mental Illness,Mortlake pub stabbing: James Fiennes
+22/04/2014,Max Clarence,Male,British,None,Tania Clarence,Female,South African,Solved,Child Killings (3 to 12...,"Family Tragedy: Oliva, Ben and Max Clarence"
+22/04/2014,Max Clarence,Male,British,None,Tania Clarence,Female,South African,Solved,Child Killings (3 to 12...,"Family Tragedy: Oliva, Ben and Max Clarence"
+22/04/2014,Max Clarence,Male,British,None,Tania Clarence,Female,South African,Solved,Child Killings (3 to 12...,"Family Tragedy: Oliva, Ben and Max Clarence"
+11/04/2014,Judith Nibbs,Female,British,Knife,NULL,NULL,NULL,Unsolved,Domestic,Death in Shoreditch: Judith Nibbs
+31/03/2014,Real-Jahzarah McKoy,Female,British,None,Roland McKoy,Male,Jamaican,Solved,Baby Killings (0 to 2...,Hackney Tragedy: Valerie Forde and Real-Jahzarah McKoy
+31/03/2014,Real-Jahzarah McKoy,Female,British,None,Roland McKoy,Male,Jamaican,Solved,Baby Killings (0 to 2...,Hackney Tragedy: Valerie Forde and Real-Jahzarah McKoy
+24/03/2014,Mohammed Yasser Afzal,Male,British,Knife,Gulam Chowdhury,Male,British,Solved,Uncategorised,Cab controller stabbed: Mohammed Afzal
+24/03/2014,Mehmet Hassan,Male,British,None,Leonie Granger,Female,British,Solved,Robbery,Honeytrap Murder: Mehmet Hassan
+22/03/2014,Shereka Marsh,Female,British,Gun,15 year-old boy,Male,British,Solved,Teenage Victim,Teenager shot dead: Shereka Marsh
+19/03/2014,Naudel Turner,Female,British,Knife,Dariusz Miakienko,Male,Polish,Solved,Uncategorised,Stabbed by a former lover: Naudel Turner
+16/03/2014,Rivka Holden,Female,British,Knife,Nicolae Patraucean,Male,Romanian,Solved,"Drug Related, Alcohol...",Sadistic murder: Rivka Holden
+15/03/2014,Michael Hunt,Male,Irish,None,Arry Green,Male,British,Solved,Alcohol Related,Unprovoked attack: Michael Hunt
+13/03/2014,Neill Buchel,Male,British,None,Chas Quye,Male,British,Solved,Alcohol Related,The Leg in the Lake: Neill Buchel
+02/03/2014,Ronald Parsons,Male,British,Other,Daniel Atkins,Male,British,Solved,Mental Illness,Killed by schizophrenic neighbour: Ronald Parsons
+01/03/2014,Josiah Manful,Male,British,Knife,Omar Hassan,Male,British,Solved,Drug Related,Leytonstone double murder: Aaron Carriere and Josiah Manful
+01/03/2014,Josiah Manful,Male,British,Knife,Omar Hassan,Male,British,Solved,Drug Related,Leytonstone double murder: Aaron Carriere and Josiah Manful
+27/02/2014,Dwayne Simpson,Male,British,Knife,Rio Clarke,Male,British,Solved,Gang,GAS gang feud: Dwayne Simpson
+20/02/2014,Paul Thrower,Male,British,Knife,Mahdi Osman,Male,British,Solved,Uncategorised,Handyman stabbed confronting troublemaking youths: Paul Thrower
+18/02/2014,Rashid Naeem,Male,British,Knife,Javauntee Campbell,Male,British,Solved,Robbery,Market stabbing: Rashid Naeem
+12/02/2014,Not named due to court order,Female,British,Knife,16 year-old boy,Male,British,Solved,"Domestic, Mental Illness",Killed by her mentally ill son: Unnamed woman
+11/02/2014,Mashboor Hussain,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Death in Tooting: Mashboor Hussain
+07/02/2014,Dean Mayley,Male,British,Knife,Ryan Beresford,Male,British,Solved,Robbery,Killed for his coat: Dean Mayley
+07/02/2014,Babafemi Junaid,Male,British,Knife,Evan Edwards,Male,British,Solved,Uncategorised,Stabbed to death in Stockwell: Femi Junaid
+03/02/2014,Basel Aghabra,Male,British,Knife,Yusef Al-jaaf,Male,British,Solved,Teenage Victim,Stabbed over 30 pounds: Basel Aghabra
+31/01/2014,Maria Duque-Tunjano,Female,British,Blunt Object,Robert Fraser,Male,British,Solved,Mental Illness,Earls Court assault: Maria Duque-Tunjano
+28/01/2014,Milena Yulianova,Female,Bulgarian,Knife,Jamshaid Khan,Male,Pakistani,Solved,Domestic,Forest Gate stabbing: Milena Yulianova
+09/01/2014,Nathaban Vageswaran,Male,British,None,Jeyavani Vageswaran,Female,British,Solved,Child Killings (3 to 12...,Harrow Tragedy: Anopan and Nathaban Vageswaran
+09/01/2014,Nathaban Vageswaran,Male,British,None,Jeyavani Vageswaran,Female,British,Solved,Child Killings (3 to 12...,Harrow Tragedy: Anopan and Nathaban Vageswaran
+29/12/2013,Shamim Gabriel,Female,Kenyan,Knife,Richard Otunga,Male,British,Solved,Domestic,Killed by her husband: Shamim Gabriel
+26/12/2013,Hassan Isman Omer,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Boxing Day shooting: Hassan Isman
+21/12/2013,Aftaben Khanom,Female,British,Knife,Mohammed Qayyum,Male,British,Solved,Domestic,Stabbed by her son in law: Aftaben Khanom
+19/12/2013,Dora Matthews,Female,British,None,David Douglas,Male,British,Solved,Domestic,Pushed from the 14th Floor: Dora Matthews
+17/12/2013,Dean Williamson,Male,British,Knife,NULL,NULL,NULL,Solved,Domestic,Stabbed in self defence: Dean Williamson
+16/12/2013,Donald McNichol,Male,British,None,Ibrahim Ford,Male,British,Solved,Uncategorised,Stockwell assault: Donald McNichol
+10/12/2013,Anna Maria Thomas,Female,British,None,Felix Gutierrez-Cortez,Male,Belgian,Solved,Mental Illness,Pensioner strangled in Putney: Anna Maria Thomas
+06/12/2013,Rowan Thomas-Williams,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Shot dead in Neasden: Rowan Thomas-Williams
+03/12/2013,Joshua Folkes,Male,British,Knife,NULL,NULL,NULL,Solved,Teenage Victim,Teenager stabbed in Palmers Green: Joshua Folkes
+02/12/2013,Antonio Rodney-Cole,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Stabbed in Stoke Newington: Antonio Rodney-Cole
+30/11/2013,Bernadeta Nawracaj,Female,Polish,None,Edyta Nawadska,Female,Polish,Solved,Uncategorised,Battered to death: Bernadeta Nawracaj
+29/11/2013,Christopher Foster,Male,British,Knife,Aytach Lisani,Male,British,Solved,Uncategorised,Mistaken Identity: Christopher Foster
+29/11/2013,Poonam,Female,British,None,Sanjeev Kumar,Male,British,Solved,Domestic,Death in Southall: Poonam
+20/11/2013,Oliver Farrell,Male,British,Vehicle,NULL,NULL,NULL,Unsolved,Uncategorised,Death crash in Islington: Oliver Farrell
+20/11/2013,Carol French,Female,British,Ligature,Douglas Morton,Male,British,Solved,Domestic,Death in Wandsworth: Carol French
+15/11/2013,Unknown,Male,British,Other,NULL,NULL,NULL,Unsolved,Uncategorised,The Body in the Well: Damian Chlywka
+12/11/2013,Paula Newman,Female,British,None,Kane Boyce,Male,British,Solved,Domestic,Killed by abusive boyfriend: Paula Newman
+07/11/2013,Miroslaw Glaza,Male,Polish,None,Rafal Lewsza,Male,Polish,Solved,Alcohol Related,Fatal assault in Hackney: Miroslaw Glaza
+03/11/2013,Ismail Essa,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Stabbed to death in North Acton: Ismail Essa
+29/10/2013,Mariana Popa,Female,Romanian,Knife,Farooq Shah,Male,British,Solved,Uncategorised,Stabbed to death in Ilford: Mariana Popa
+28/10/2013,Ellie Butler,Female,British,None,NULL,NULL,NULL,Unsolved,Child Killings (3 to 12...,Child death in Sutton: Ellie Butler
+18/10/2013,Amoe Stevens,Female,British,Other,Mohammud Yusuf,Male,British,Solved,Sexual,An Agonising Death: Amoe Stevens
+17/10/2013,Henry Stangroom,Male,British,Knife,Andrew Morris,Male,British,Solved,Uncategorised,Chef stabbed to death: Henry Stangroom
+16/10/2013,Anthony Campbell,Male,British,Knife,NULL,NULL,NULL,Solved,Alcohol Related,Fulham Stabbing: Anthony Campbell
+14/10/2013,Shammi Atwal,Male,British,Vehicle,Ahmedshah Hatimi,Male,British,Solved,Robbery,Death of a Shopkeeper: Shammi Atwal
+07/10/2013,Paul Joseph,Male,British,Knife,George Joseph,Male,British,Solved,Domestic,Killed by his father: Paul Joseph
+05/10/2013,Badri Dabir,Female,British,None,Mohammed Badvie,Male,British,Solved,"Mental Illness, Domestic",Killed by her son: Badri Dabir
+04/10/2013,Amani Abdi,Female,British,None,Iman Wyse,Female,British,Solved,Baby Killings (0 to 2...,Baby death: Amani Abdi
+25/09/2013,Fico Dougan,Male,British,Knife,Uriah Gardner,Male,British,Solved,Teenage Victim,An Unprovoked Attack: Fico Dougan
+20/09/2013,Kyle McDonald,Male,British,Gun,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenage rapper shot dead: Kyle McDonald
+13/09/2013,Amina Bibi,Female,British,Knife,Mohamed Ali,Male,Pakistani,Unsolved,"Domestic, Drug Related",The cheating husband and the hired killer: Amina Bibi
+11/09/2013,Rodney Adams,Male,British,Knife,Kristofer Guler,Male,British,Solved,Uncategorised,Harringay stabbing: Rodney Adams
+03/09/2013,Rosemary Shearman,Female,British,None,Thomas Blazquez,Male,British,Solved,Uncategorised,Widow killed in Hornchurch: Rosemary Shearman
+03/09/2013,Aamena Hussain,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Drowned in Leyton: Aamena Hussain
+01/09/2013,George Verrier,Male,British,None,Ben Hayes,Male,Brazilian,Solved,Teenage Victim,A Single Punch: George Verrier
+29/08/2013,Ayesha Ali,Female,British,None,Kiki Muddar,Female,British,Solved,Child Killings (3 to 12...,Death of an eight year old girl: Ayesha Ali
+28/08/2013,Mark Haley,Male,British,None,Michael Broom,Male,British,Solved,Alcohol Related,Chessington Assault: Mark Haley
+26/08/2013,Surjeet Singh,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Fairground Stabbing: Surjeet Singh
+24/08/2013,Sabrina Moss,Female,British,Gun,Yassin James,Male,British,Solved,"Gang, Drug Related",Innocent victim of turf war: Sabrina Moss
+21/08/2013,Lamarni Hylton-Reid,Male,British,Knife,Daniel Campbell,Male,British,Solved,Gang,Stabbed in Homerton: Lamarni Hylton-Reid
+20/08/2013,Mya Nguyen,Female,British,None,Julia Nguyen,Female,British,Solved,Baby Killings (0 to 2...,Death of 18 month-old baby: Mya Nguyen
+14/08/2013,Orina Morawiec,Female,Polish,Knife,Farhad Safi,Male,Afghan,Solved,Domestic,Killed by her husband: Orina Morawiec
+12/08/2013,Ajmol Alom,Male,British,Knife,Ali Akbar Choudhury,Male,British,Solved,Teenage Victim,Teenager stabbed to death: Ajmol Alom
+06/08/2013,Taqui Khezihi,Male,British,Knife,Alex Henry,Male,British,Solved,Uncategorised,Stabbed to death in Ealing: Taqui Khezihi
+05/08/2013,Edward Fustei,Male,Romanian,Knife,Daniel Cozma,Male,Romanian,Solved,Uncategorised,Stabbed to death in East Ham: Edward Fustei
+04/08/2013,Anu Kapoor,Female,British,Knife,Rojel Haque,Male,British,Solved,Domestic,Stabbed to death by her husband: Anu Kapoor
+31/07/2013,Linah Keza,Female,British,Knife,David Gikawa,Male,Rwandan,Solved,Domestic,Killed by her Ex: Linah Keza
+29/07/2013,Keisha McKenzie,Female,British,Knife,Desmond Brook,Male,Jamaican,Solved,Domestic,Mum killed in triple stabbing: Keisha McKenzie
+28/07/2013,Bakre Yesufu,Male,British,None,Don-Sebastian Hoo-Lawson,Male,British,Solved,Uncategorised,Fatal assault in Clapton: Bakre Yesufu
+26/07/2013,Liam Hamilton,Male,British,Knife,Paul Hamilton,Male,British,Solved,Domestic,Family Feud in Poplar: Liam Hamilton
+25/07/2013,Oluwole Oyenuga,Male,British,None,Ayiab Mahmood,Male,British,Solved,Uncategorised,Road rage killing: Oluwole Oyenuga
+21/07/2013,Alexandra Kovacs,Female,Hungarian,Other,Laszlo Gyarmati,Male,Hungarian,Solved,Uncategorised,Body in a suitcase: Alexandra Kovacs
+19/07/2013,Julie Beattie,Female,British,Other,Ashley Williams,Male,British,Solved,Domestic,Burned to death: Julie Beattie
+17/07/2013,Ram Gharu,Male,British,Poison,NULL,NULL,NULL,Unsolved,Drug Related,Death in Southall: Ram Gharu
+14/07/2013,Jeffrey Coombes,Male,British,None,Leonard Head,Male,British,Solved,Drug Related,Found dead in Walthamstow: Jeffrey Coombes
+12/07/2013,Orville Brown,Male,British,Knife,Paul Marshall,Male,British,Solved,Uncategorised,Stabbed to death in Enfield: Orville Brown
+10/07/2013,Shivani Kapoor,Female,British,None,Manas Kapoor,Male,British,Solved,Domestic,Wife strangled in Northwood: Shivani Kapoor
+07/07/2013,Sabeen Thandi,Female,British,None,Mohammed Badiuzzaman,Male,British,Solved,Domestic,Strangled in Forest Gate: Sabeen Thandi
+06/07/2013,Vitalis Katakinas,Male,Lithuanian,None,NULL,NULL,NULL,Solved,Alcohol Related,Death of an Actor: Vitalis Katakinas
+04/07/2013,Mohammed Ishtiaq,Male,British,None,Colin Moore,Male,British,Solved,Uncategorised,A Single Punch: Mohammed Ishtiaq
+01/07/2013,Kate Dixon,Female,British,Knife,Jonathan Tebbs,Male,British,Solved,Domestic,Killed by her jealous boyfriend: Kate Dixon
+29/06/2013,Mohamed Abdullahi,Male,British,Knife,Kyle Sober-Froud,Male,British,Solved,Gang,Mistaken Revenge: Mohamed Abdullahi
+22/06/2013,Gary Brisco,Male,British,Knife,Mehretab Zemicael,Male,Eritrean,Solved,"Robbery, Drug Related",Hostel stabbing: Gary Brisco
+15/06/2013,Colin Greenway,Male,British,Knife,Daha Mohammed,Male,Somali,Solved,Mental Illness,Killed by his neighbour: Colin Greenway
+13/06/2013,Vethanayagam Anthonypillai,Male,Sri Lankan,None,Amala Anthonypillai,Male,Sri Lankan,Solved,Mental Illness,Killed by his son: Vethanayagam Anthonypillai
+10/06/2013,Colin Bolton,Male,British,Knife,Andrew Nichols,Male,British,Solved,Domestic,Kingston stabbing: Colin Bolton
+10/06/2013,Sylwester Mendzelewski,Male,Polish,Other,16 year-old girl,Male,British,Solved,Uncategorised,Derelict building fire: Sylwester Mendzelewski
+01/06/2013,Myrna Holman,Female,British,Other,Roland Holman,Male,British,Solved,Domestic,Death in Plaistow: Myrna Holman
+30/05/2013,Alfred Stemporowski,Male,Polish,None,Damin Walczyk,Male,Polish,Solved,Alcohol Related,Body found in Enfield: Alfred Stemporwoski
+29/05/2013,Giuseppina Fazzani,Female,Italian,Other,Tuan Anh Le,Male,Vietnamese,Solved,Uncategorised,Fatal Fire in Deptford: Giuseppina Fazzani
+25/05/2013,Andrew Iacovou,Male,British,Blunt Object,Shafique Aarij,Male,British,Solved,Robbery,Battered to death at Ladbrokes: Andrew Iacovou
+24/05/2013,Margery Gilbey,Female,British,None,Imran Douglas,Male,British,Solved,Robbery,Killed by a teenage burglar: Margery Gilbey
+22/05/2013,Lee Rigby,Male,British,Knife,Michael Adebowale,Male,British,Solved,Terrorist,Woolwich Terror Attack: Drummer Lee Rigby
+15/05/2013,Margaret Mercati,Female,British,None,Robert Mercati,Male,British,Solved,Domestic,Murder and suicide in Bloomsbury: Margaret Mercati
+14/05/2013,Yassin Omar Mohammed,Male,British,Blunt Object,NULL,NULL,NULL,Unsolved,Uncategorised,Fatal assault in Wembley: Yassin Omar Mohamed
+09/05/2013,Champion Ganda,Male,British,Knife,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager stabbed in Forest Gate: Champion Ganda
+09/05/2013,Khadar Hussein,Male,British,Gun,NULL,NULL,NULL,Unsolved,Teenage Victim,Shot dead in Penge: Khadar Hussein
+04/05/2013,James Sweeney,Male,British,Knife,Raul Hesse,Male,British,Solved,Drug Related,Stabbing in Clapton: James Sweeney
+27/04/2013,Sean Hayes,Male,British,Knife,Mark Hayes,Male,British,Solved,Uncategorised,Family Feud: Sean Hayes
+24/04/2013,Derek Boateng,Male,British,Knife,Shawn Green,Male,British,Solved,Teenage Victim,Stabbed on his 16th birthday: Derek Boateng
+18/04/2013,Zafer Eren,Male,British,Gun,NULL,NULL,NULL,Solved,Gang,Turkish Gang War: Zafer Eren
+14/04/2013,Jerome Edwards,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Camberwell shooting: Jerome Edwards
+01/04/2013,Mohammed Hussein,Male,British,Gun,Natneal Tesfay,Male,British,Solved,"Teenage Victim, Gang",Gang shooting: Mohammed Hussein
+21/03/2013,Matthew Fallon,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Fatal assault in Finsbury Park: Matthew Fallon
+18/03/2013,Daneshia Arthur,Female,British,Knife,Delton Coley,Male,British,Solved,Domestic,A Senseless Act: The murder of Daneshia Arthur
+13/03/2013,Gilbert Barber,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Death in Harley Street: Gilbert Barber
+11/03/2013,Mohammed Ahmed,Male,British,None,Mahad Ahmed,Male,British,Solved,Child Killings (3 to 12...,Death of boy in Streatham: Mohammed Ahmed
+10/03/2013,Ibrahim Ali,Male,British,Knife,Lemar Martin,Male,British,Solved,Uncategorised,Revenge Attack: Ibrahim Ali
+08/03/2013,Roberto Troyan,Male,American,None,David Jeffs,Male,British,Solved,Robbery,Death in Mayfair: Roberto Troyan
+05/03/2013,Michael Buckley,Male,British,Vehicle,NULL,NULL,NULL,Solved,Uncategorised,Hit by a shopping trolley: Michael Buckley
+04/03/2013,Warsame Warsame,Male,British,None,Rhys Parchment,Male,British,Solved,Uncategorised,Assault on a train: Warsame Warsame
+02/03/2013,Daniel Evbuomwan,Male,British,None,Ben Igbinedion,Male,British,Solved,Child Killings (3 to 12...,Death of boy in Downham: Daniel Evbuomwan
+22/02/2013,Benedykt Nowak,Male,British,Other,Mariusz Florowski,Male,Polish,Solved,Uncategorised,Fatal fire in Southall: Benedykt Nowak
+17/02/2013,Peter Hagan,Male,British,Knife,Jamaal Ferguson,Male,British,Solved,Teenage Victim,House party stabbing: Peter Hagan
+16/02/2013,Joseph Burke-Monerville,Male,British,Gun,NULL,NULL,NULL,Unsolved,Teenage Victim,Clapton Shooting: Joseph Burke-Monerville
+11/02/2013,Ganimete Hoti,Female,British,Knife,Muhamet Hoti,Male,British,Solved,Domestic,Killed by her husband: Ganimete Hoti
+06/02/2013,Pernella Forgie,Female,British,Knife,Simon Forgie,Male,British,Solved,"Mental Illness, Domestic",Killed by her mentally ill son: Pernella Forgie
+04/02/2013,Shaun McDermott,Male,British,None,Sean Boggans,Male,British,Solved,Alcohol Related,A Single Punch: Shaun McDermott
+29/01/2013,Rolandos Jakubonskis,Male,Lithuanian,Knife,Pavel Arlowskus,Male,Lithuanian,Solved,Uncategorised,Stabbed to death in Woolwich: Rolandos Jakubonskis
+27/01/2013,Hani Hicham Abou El Kheir,Male,British,Knife,Alhussain Ali,Male,British,Solved,"Teenage Victim, Gang",Teenager killed in Pimlico turf war: Hani Abou El Kheir
+22/01/2013,Chloe Siokos,Female,Greek,Knife,Argyrios Siokos,Male,Greek,Solved,"Domestic, Mental Illness",Finchley Fire: Chloe Siokos
+19/01/2013,Petras Miernykas,Male,Lithuanian,Knife,Ausras Maslovas,Male,Lithuanian,Solved,Alcohol Related,Death of a Truck Driver: Petras Miernykas
+18/01/2013,Egidijus Ceplionis,Male,Lithuanian,None,Giedrius Zinkevicius,Male,Lithuanian,Solved,Alcohol Related,Fatal fight in Hackney: Egidijus Cepulionis 
+13/01/2013,Pawel Pacholak,Male,Polish,None,Jurius Tarasov,Male,Lithuanian,Solved,Alcohol Related,Death in Streatham: Pawel Pacholak
+11/01/2013,Shenol Shevka-Ahmed,Male,British,Blunt Object,Mohammad Babamiri,Male,British,Solved,Uncategorised,Death at work: Shenol Shevka-Ahmed
+07/01/2013,Anastasia Voykina,Female,Russian,None,Filip Silva Lopes,Male,Portuguese,Solved,"Domestic, Mental Illness",Young Russian found dead: Anastasia Voykina
+03/01/2013,Akua Agyeman,Female,Ghanaian,Knife,Minta Adiddo,Male,Ghanaian,Solved,Domestic,Murder in Enfield Island Village: Akua Agyeman
+02/01/2013,Janelle Duncan-Bailey,Female,British,None,Jerome McDonald,Male,British,Solved,Domestic,Killed by her ex-partner: Janelle Duncan-Bailey
+30/12/2012,Dogan Ismail,Male,British,Knife,Dawda Jallow,Male,British,Solved,Teenage Victim,Teenager attacked on Walworth estate: Dogan Ismail
+30/12/2012,Darryl McClymont,Male,British,Knife,Mohamed Aradour,Male,British,Solved,Drug Related,Stabbed in Isleworth: Darryl McClymont
+28/12/2012,Judith Brierley,Female,British,Ligature,Kim Matthews,Male,British,Solved,Domestic,Strangled by her partner: Judith Brierley
+27/12/2012,Delores Smith,Female,British,Other,Buck Smith,Male,British,Solved,Domestic,Killed by her son: Delores Smith
+22/12/2012,Eric Paul,Male,British,Knife,Fitzroy Daley,Male,British,Solved,Alcohol Related,Pub row ends in killing: Eric Paul
+22/12/2012,Shaun Akanbi,Male,British,Knife,Achraf Jandara,Male,Moroccan,Solved,Robbery,Fashion designer killed in robbery: Shaun Akanbi
+20/12/2012,Rebecca Sessacar,Female,British,Knife,Bulent Sessacar,Male,Turkish,Unsolved,Domestic,Killed by her husband: Rebecca Sessacar
+19/12/2012,Alexander Stewart,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Archway Mystery: Alexander Stewart
+16/12/2012,Evaldas Svolkinas,Male,Lithuanian,None,Andrej Malinovskij,Male,Lithuanian,Solved,Uncategorised,Body in a stream: Evaldas Svolkinas
+13/12/2012,David Remmer,Male,British,Knife,Thomas Kearney,Male,British,Solved,Alcohol Related,Murder at a Hostel: David Remmer
+13/12/2012,Douglas Hutchison,Male,British,None,Tim Sommer,Male,German,Solved,Mental Illness,Doorstep killing: Douglas Hutchison
+09/12/2012,Stephen Andrews,Male,New Zealander,None,NULL,NULL,NULL,Unsolved,Uncategorised,Punk rocker dies in Putney: Stephen Andrews
+09/12/2012,Andrejs Ivanovs,Male,Latvian,Ligature,Soufiane Essabri,Male,French,Solved,Robbery,Strangled in Southwark: Andrejs Ivanovs 
+07/12/2012,David Forbes,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Death in Euston Road: David Forbes
+26/11/2012,Ali Abubakar,Male,Ghanaian,Blunt Object,Abdul Mohammed,Male,Ghanaian,Solved,Mental Illness,Islamic doctor battered to death: Ali Abubakar
+22/11/2012,Gaynor Bale,Female,British,None,Douglas Samuel,Male,British,Solved,Domestic,Killed by her abusive partner: Gaynor Bale
+20/11/2012,Paula Castle,Female,British,None,NULL,NULL,NULL,Solved,Robbery,Widow mugged in broad daylight: Paula Castle
+19/11/2012,Marcus Innocent,Male,British,Gun,Daniel Burgess,Male,British,Solved,Gang,Shot dead in Woolwich: Marcus Innocent
+14/11/2012,Alfie Perrin,Male,British,None,NULL,NULL,NULL,Solved,Teenage Victim,Death at Work: Alfie Perrin
+11/11/2012,Thierry Christian-Gnanakumar,Male,French,Blunt Object,Kohulan Podiappuhamey,Male,Sri Lankan,Solved,Gang,Student killed in gang violence: Thierry Christian-Gnanakumar
+11/11/2012,Patrick Lawless,Male,British,None,Patrick Conway,Male,British,Solved,Alcohol Related,Fatal attack in Teddington: Patrick Lawless
+10/11/2012,Joseph Griffiths,Male,British,Knife,Aaron De Silva,Male,British,Solved,Robbery,Pensioner killed by burglar: Joseph Griffiths
+07/11/2012,David Whitehead,Male,British,None,NULL,NULL,NULL,Unsolved,Alcohol Related,Death in Bromley: David Whitehead
+03/11/2012,Thomas Cudjoe,Male,British,Knife,Courtney Mitchell,Male,British,Solved,Gang,People want me dead: The murder of Thomas Cudjoe
+28/10/2012,Abed Polin,Male,Mauritanian,Knife,Mohammed Ali,Male,British,Solved,"Mental Illness, Domestic",Killer in the Family: Abed Polin
+25/10/2012,Jamie Sanderson,Male,British,Knife,Levan Greenfield,Male,British,Solved,Uncategorised,Nightclub stabbing: Jamie Sanderson
+25/10/2012,Jean Farrer,Female,British,None,Daniel Barnett,Male,British,Solved,Robbery,Killed by a Burglar: Jean Farrar
+25/10/2012,Colin Hammond,Male,British,Knife,Frederic Russell,Male,French,Solved,Mental Illness,Killed by a Stranger: Colin Hammond
+20/10/2012,Harold Muzeremwi,Male,Zimbabwean,Knife,Delaney Barnett,Male,British,Solved,Uncategorised,Peacemaker died trying to protect his friend: Harold Muzeremwi
+20/10/2012,Teon Palmer,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Stabbed in Lower Edmonton: Teon Palmer
+11/10/2012,Brian Templeman,Male,British,Knife,Edward Hepburn,Male,British,Solved,Uncategorised,Peckham stabbing: Brian Templeman
+04/10/2012,Pelivan Zekaj,Male,Albanian,Knife,NULL,NULL,NULL,Solved,Uncategorised,Stabbed to death at Burger King: Pelivan Zekaj
+29/09/2012,Sharlana Diedrick,Female,British,Knife,Marvin Samuels,Male,British,Solved,Domestic,Killed by her former partner: Sharlana Diedrick
+27/09/2012,Junior Nkwelle,Male,British,Knife,Cherelle McKenzie-Jackson,Female,British,Solved,Teenage Victim,Teenage footballer stabbed to death in Brixton: Junior Nkwelle
+26/09/2012,Shaun Chambers,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Stabbed to death in Walworth: Shaun Chambers
+15/09/2012,Kevin Ssali,Male,British,Knife,Roree Cox,Male,British,Solved,Teenage Victim,Teenager stabbed to death: Kevin Ssali
+13/09/2012,Arron Payne,Male,British,Knife,Dean Gabay,Male,British,Solved,Uncategorised,Stabbing in Wembley: Arron Payne
+10/09/2012,Unknown,Female,Latvian,Other,Elita Amantova,Female,Latvian,Solved,Baby Killings (0 to 2...,Death of newborn baby
+07/09/2012,Charles Oppong,Male,British,Knife,Michel Oulai,Male,Ivorian,Solved,Uncategorised,Killed by his flatmate: Charles Oppong
+03/09/2012,Leonard Pollen,Male,British,Knife,Ann Pollen,Female,British,Solved,Domestic,Suicide Pact: Leonard Pollen
+31/08/2012,Adeel Salaam,Male,British,Blunt Object,Vaseel Ullah,Male,British,Solved,Mental Illness,Killed in his office: Adeel Salaam
+30/08/2012,Amanda Telfer,Female,British,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Falling window: Amanda Telfer
+30/08/2012,Piotr Mikiewicz,Male,Polish,Knife,Roger Buckingham,Male,British,Solved,Robbery,The burglar and the street cleaner: Piotr Mikiewicz
+21/08/2012,Hanad Osman,Male,Somali,Knife,Ayanle Adan,Male,British,Solved,Drug Related,Murder at the khat cafe: Hanad Osman
+19/08/2012,Thomas Overton,Male,British,Knife,Ahmed Ahmed,Male,British,Solved,Teenage Victim,Birthday party ends in street battle: Thomas Overton
+18/08/2012,Kestutis Mickevicius,Male,Lithuanian,Blunt Object,NULL,NULL,NULL,Unsolved,Alcohol Related,Body found in Beckton: Kestutis Mickevicius
+15/08/2012,Eleftheria Demetriou,Female,Cypriot,Knife,Hakim Abdullahi,Male,Somali,Solved,Mental Illness,The Mentally Ill Neighbour: Eleftheria Demetriou
+07/08/2012,Neil Hannah,Male,Australian,None,Graham Brett,Male,British,Solved,Alcohol Related,Death of a gentle giant: Neil Hannah
+03/08/2012,Tia Sharp,Female,British,None,Stuart Hazell,Male,British,Solved,Child Killings (3 to 12...,Missing: The murder of Tia Sharp
+01/08/2012,Nathaniel Brown,Male,British,Knife,NULL,NULL,NULL,Solved,Teenage Victim,House party stabbing: Nathaniel Brown
+30/07/2012,Colin Ballinger,Male,British,Other,Joyce Evans,Female,British,Solved,Domestic,Killed by his carer: Colin Ballinger
+22/07/2012,Pamela Wheeler,Female,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Widow found dead at home: Pamela Wheeler
+15/07/2012,Umar Tufail,Male,British,Gun,Sanchez Thomas,Male,British,Solved,Gang,Rapper shot dead in South Norwood: Umar Tufail
+11/07/2012,Kemar Duhaney,Male,British,Knife,Damion Douglas,Male,British,Solved,Uncategorised,Love rivals: The killing of Kemar Duhaney
+29/06/2012,Liam Woodards,Male,British,Knife,Nii-Azu Kojo-Smith,Male,British,Solved,Gang,Murder at Westfield Stratford: Liam Woodards
+24/06/2012,Nicholas Henry,Male,British,Knife,Robert Casey,Male,British,Solved,Uncategorised,City nightclub stabbing: Nicholas Henry
+24/06/2012,Michael Walser,Male,British,None,Terry Smylie,Male,British,Solved,Drug Related,A Fatal Push: Michael Walser
+21/06/2012,Mark Morrison,Male,British,Ligature,Ghodratollah Barani,Male,Afghan,Solved,Mental Illness,Strangled at Marble Arch: Mark Morrison
+20/06/2012,Dothan Gordon,Male,British,Gun,Daniel Bidace,Male,British,Solved,Drug Related,Cold Blooded Execution: Dothan Gordon
+17/06/2012,Marlon Campbell,Male,British,Gun,Dwayne Fulgence,Male,British,Solved,Uncategorised,Shot dead in Bellingham: Marlon Campbell
+14/06/2012,Ndingeko Kunene,Male,British,Other,Nkosiyapha Kunene,Male,Zimbabwean,Solved,Baby Killings (0 to 2...,Baby death: Ndingeko Kunene
+12/06/2012,Margaret Sheehy,Female,British,None,Sean Heiss,Male,British,Solved,Domestic,Strangled by her son: Margaret Sheehy
+08/06/2012,Prabjot Singh Rayat,Male,British,Knife,Henry Collins,Male,British,Solved,"Robbery, Drug Related",Death of a Garage Owner: Prabjot Singh Rayat
+06/06/2012,Zahir Bouchia,Male,British,None,Nadeem Yasin,Male,British,Solved,Alcohol Related,Fatal attack in North Woolwich: Zahir Bouchia
+05/06/2012,James Durkin,Male,British,None,Liam Smith,Male,British,Solved,Alcohol Related,Fatal attack after Jubilee BBQ: James Durkin
+05/06/2012,Marvin Hogan,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Stabbed to death in Leyton: Marvin Hogan
+04/06/2012,Chrissie Azzopardi,Female,British,None,Romy Maynard,Male,British,Solved,Uncategorised,Found dead in Finsbury Park: Chrissie Azzopardi
+01/06/2012,Damon Weedon,Male,British,Knife,Frank Smith,Male,British,Solved,Alcohol Related,Stabbed to death in Wallington: Damon Weedon
+29/05/2012,Sultan Ahmed,Male,British,Knife,Shofique Uddin,Male,British,Solved,Uncategorised,Neighbours: The murder of Sultan Ahmed
+28/05/2012,Luke Harwood,Male,British,None,Emma Hall,Female,British,Solved,Teenage Victim,Falsely Accused: Luke Harwood
+25/05/2012,Rushna Begum,Female,British,None,Sheikh Shahidul Islam,Male,Bangladeshi,Solved,Domestic,Wife murdered by husband: Rushna Begum
+21/05/2012,O'Neil Irwin,Male,British,Knife,Reardon Emanuel,Male,British,Solved,Drug Related,Walthamstow stabbing: O'Neil Irwin
+21/05/2012,Przemyslaw Lepkowski,Male,Polish,None,NULL,NULL,NULL,Solved,Alcohol Related,Strangled in Tooting: Przemyslaw Lepkowski
+21/05/2012,Naomi Asante,Female,Ghanaian,Knife,Kenneth Asante,Male,Ghanaian,Solved,Domestic,Domestic tragedy in Tottenham: Naomi Asante
+21/05/2012,Brian Kyle,Male,British,None,NULL,NULL,NULL,Solved,Alcohol Related,Death at a Hostel: Brian Kyle
+19/05/2012,Luke Fitzpatrick,Male,British,Knife,Abdi Aziz Hassan,Male,British,Solved,Gang,Gang violence in Dollis Hill: Luke Fitzpatrick
+09/05/2012,Mason Boots,Male,British,None,Felicia Boots,Female,Canadian,Solved,Baby Killings (0 to 2...,Wandsworth Tragedy: Lily and Mason Boots
+09/05/2012,Mason Boots,Male,British,None,Felicia Boots,Female,Canadian,Solved,Baby Killings (0 to 2...,Wandsworth Tragedy: Lily and Mason Boots
+30/04/2012,Rodney Hickford,Male,British,Knife,Norman Newmarch,Male,British,Solved,Uncategorised,Stabbed to death in Islington: Rodney Hickford
+18/04/2012,David Petch,Male,British,None,Jason Lodge,Male,British,Solved,Drug Related,Fatal assault in New Addington: David Petch
+16/04/2012,Carole Waugh,Female,British,Knife,Rakesh Bhayani,Male,British,Solved,Robbery,The Missing Businesswoman: Carole Waugh
+09/04/2012,Richard Hamilton,Male,British,Knife,Matthew Tinling,Male,British,Solved,Drug Related,Horror in Maida Vale: Richard Hamilton
+08/04/2012,Philip Sherriff,Male,British,Other,Ashley Charles,Male,British,Solved,Uncategorised,Blackberry Party Stabbing: Philip Sherriff
+31/03/2012,Chris Isted,Male,British,Knife,Carlton McKay,Male,British,Solved,Uncategorised,Frenzied and Merciless: The murder of Chris Isted
+24/03/2012,Elizabeth Coriat,Female,British,Other,Daniel Coriat,Male,British,Solved,"Domestic, Mental Illness",Forest Hill Tragedy: Elizabeth Coriat
+13/03/2012,Lesley Larner,Female,British,Knife,Larry Parker,Male,British,Solved,"Mental Illness, Domestic",Killed by her mentally ill partner: Lesley Larner
+10/03/2012,Rajendra Patel,Male,British,None,Daniel Bannister,Male,British,Solved,Mental Illness,Death at a Hostel: Rajendra Patel
+02/03/2012,Kwame Ofosu-Asare,Male,British,Knife,Nathaniel Okusanya,Male,British,Solved,"Teenage Victim, Gang",Teenager stabbed in Brixton: Kwame Ofosu-Asare
+01/03/2012,Gemma McCluskie,Female,British,None,Tony McCluskie,Male,British,Solved,"Domestic, Drug Related",The murder of Eastenders actress Gemma McCluskie
+01/03/2012,Vassos Demetriou,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Death in Wood Green: Vassos Demetriou
+25/02/2012,Alex Jarmay,Male,British,Knife,Paul Beck,Male,British,Solved,Uncategorised,Liverpool fan stabbed to death in Camden: Alex Jarmay
+15/02/2012,Earl Warburton,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Murder in Loampit Hill: Earl Warburton
+14/02/2012,Omer Jama Abdi,Male,Somali,None,NULL,NULL,NULL,Solved,Uncategorised,Fatal assault in Wembley: Omer Abdi
+07/02/2012,Roberto Da Silva,Male,Cape Verdean,Vehicle,NULL,NULL,NULL,Solved,Uncategorised,Hit and Run: Roberto Da Silva
+07/02/2012,Cheryl Tariah,Female,British,None,Ako Amin,Male,Iranian,Solved,Teenage Victim,Teenager strangled in Barkingside: Cheryl Tariah
+07/02/2012,Anthony Thompson,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Prank led to fatal fight: Anthony Thompson
+05/02/2012,Michelle Creed,Female,British,None,Jason McKay,Male,British,Solved,Uncategorised,Found dead in West Kensington: Michelle Creed
+01/02/2012,Ali Armagan,Male,British,Gun,NULL,NULL,NULL,Unsolved,Gang,Shot dead in Turnpike Lane: Ali Armagan
+29/01/2012,Leslie Trotman,Male,British,Other,NULL,NULL,NULL,Solved,Uncategorised,Mauled by a dog: Leslie Trotman
+25/01/2012,Edward Syrad,Male,British,None,Gezim Delijah,Male,Albanian,Solved,Robbery,Tied up by Burglars: Edward Syrad
+21/01/2012,Aisha Chithira,Female,Irish,Other,NULL,NULL,NULL,Unsolved,Uncategorised,Abortion Death: Aisha Chithira
+02/01/2012,Kirsty Treloar,Female,British,Knife,Myles Williams,Male,British,Solved,Domestic,Nursery nurse murdered by her boyfriend: Kirsty Treloar
+01/01/2012,Aaron McKoy,Male,British,Gun,Dean Smith,Male,British,Solved,Gang,Shot dead on his birthday: Aaron McKoy
+26/12/2011,Seydou Diarrassouba,Male,British,Knife,NULL,NULL,NULL,Solved,"Teenage Victim, Gang",Boxing Day murder on Oxford Street: Seydou Diarrassouba
+25/12/2011,Ruby Love,Female,British,Ligature,Manzar Juma,Male,British,Solved,Domestic,Body found in Grand Union Canal: Ruby Love
+23/12/2011,Desirie Thomas,Female,British,Knife,Bentley Huggins,Male,Kittian and Nevisian,Solved,Domestic,Wife killed after asking for divorce: Desirie Thomas
+23/12/2011,Mohammed Adan Nurr,Male,Somali,None,Abdul Qayum,Male,British,Solved,Alcohol Related,Death in Spitalfields: Mohammed Adan Nurr
+22/12/2011,Jonathan Brierley,Male,British,Knife,Jeremiah Watson,Male,British,Solved,Alcohol Related,Drunken Revenge: The murder of Jonathan Brierley
+20/12/2011,Jasmine Choudhury,Female,British,None,Mohammed Habib Rahman,Male,British,Solved,Domestic,Killed by her husband: Jasmin Chowdhury
+08/12/2011,Frederick Moore,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Fatal fight in Bexleyheath: Frederick Moore
+02/12/2011,Danny O''Shea,Male,British,Knife,Nugent Rowe,Male,British,Solved,Teenage Victim,Teenager chased to his death: Danny O'Shea
+20/11/2011,Stephen Ojerinola,Male,British,Knife,William Regan,Male,British,Solved,Teenage Victim,Buried in an Eltham garden: Stephen Ojerinola
+19/11/2011,Carmel Charles,Female,British,Knife,Richard Henry,Male,British,Solved,Mental Illness,Stabbed by her mentally ill boyfriend: Carmel Charles
+12/11/2011,Desbert Welsh,Male,British,Knife,Ezekiel McCarthy,Male,British,Solved,Domestic,Killed by his uncle: Desbert Welsh
+07/11/2011,Richard Ward,Male,British,None,Cameron McFly,Male,British,Solved,Alcohol Related,Beaten to death in Battersea: Richard Ward
+06/11/2011,Amina Adan,Female,British,Knife,Zakaria Mohammed,Male,Somali,Solved,Domestic,Stabbed to death in Walworth: Amina Adan
+03/11/2011,Ronnie Azezur Khan,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Shot dead after funeral: Ronnie Azezur Khan
+27/10/2011,Tommy Lawrence,Male,British,Knife,Martin Ward,Male,Irish,Solved,Uncategorised,Stabbed to death in Hackney: Tommy Lawrence
+22/10/2011,Kanthasamy Akilakumar,Male,Sri Lankan,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Stabbed to death at a community centre: Kanthasamy Akilakumar
+21/10/2011,William John Saunderson-Smith,Male,British,Blunt Object,Dawid Rymar,Male,Polish,Solved,Robbery,Property developer beaten to death: William Saunderson-Smith
+16/10/2011,Paul Gunner,Male,British,None,Ben Worden,Male,British,Solved,Alcohol Related,Killed on birthday night out: Paul Gunner
+10/10/2011,Sally Hodkin,Female,British,Knife,Nicola Edgington,Female,British,Solved,Mental Illness,Stabbed to death on her way to work: Sally Hodkin
+08/10/2011,Gaynor Brockwell,Female,British,None,Gary Brockwell,Male,British,Solved,Domestic,Strangled by her husband: Gaynor Brockwell
+04/10/2011,Mohammed Zillur-Rahman,Male,British,Knife,Moynul Haque,Male,British,Solved,Domestic,Cleric stabbed by his stepson: Mohammed Zillur-Rahman
+29/09/2011,Irfan Ahmad,Male,British,Knife,Mark Barker,Male,British,Unsolved,Uncategorised,Butcher stabbed to death at work: Irfan Ahmad
+26/09/2011,Charito Cruz,Female,Filipino,None,Muhammed Niazi,Male,Pakistani,Solved,Domestic,Carer killed by her partner: Charito Cruz
+25/09/2011,Lewis Ghessen,Male,British,None,NULL,NULL,NULL,Solved,Uncategorised,Death at a railway station: Lewis Ghessen
+21/09/2011,Phyliss Tamkai,Female,British,Vehicle,Nejdet Pirgali,Male,British,Solved,Uncategorised,Negligence: The death of Phyliss Tamkai
+21/09/2011,Julie Sheriff,Female,British,Other,Rebecca Douglas,Male,British,Solved,Teenage Victim,Teen killed with afro comb: Julie Sheriff
+13/09/2011,Harjinder Singh Bhurji,Male,British,Knife,Jae-don Fearon,Male,British,Solved,Robbery,Carjacked in Clayhall: Harjinder Singh Bhurji
+12/09/2011,Sashana Roberts,Female,British,Knife,Ezekiel Foster,Male,British,Solved,Domestic,Young mother killed in Cricklewood: Sashana Roberts
+06/09/2011,Michael John Dye,Male,Welsh,None,Ian Mytton,Male,British,Solved,Uncategorised,Killed at Wembley football stadium: Michael Dye
+02/09/2011,Maymoun Zarzour,Male,British,None,Hamza Boutouil,Male,British,Solved,Uncategorised,Blind Imam killed in his office in Finsbury Park: Maymoun Zarzour
+01/09/2011,Steven Grisales,Male,British,Knife,Ochaine Williams,Male,British,Solved,Uncategorised,Conkers row leads to murder: Steven Grisales
+25/08/2011,Zbigniew Ksiazek,Male,Polish,None,Robert Kubik,Male,Polish,Solved,Alcohol Related,Assault in Hendon: Zbigniew Ksiazek
+25/08/2011,Jonathan Barnes,Male,British,Gun,Daniel Tesfay,Male,British,Solved,Robbery,Shot dead in Rolex robbery: Jonathan Barnes
+17/08/2011,Leroy James,Male,British,Knife,Mustafa Gurpinar,Male,British,Solved,Teenage Victim,14 year-old boy stabbed in park: Leroy James
+15/08/2011,Kelvin Chibueze,Male,British,Knife,Hugo Nwankwo,Male,British,Solved,"Teenage Victim, Gang",Gang attack at party: Kelvin Chibueze
+15/08/2011,Paul Coleman,Male,British,None,Peter Attwell,Male,British,Solved,Uncategorised,Fatal attack in Coulsdon: Paul Coleman
+13/08/2011,Abdullahi Osman,Male,Somali,None,Sade Samanter,Male,Somali,Solved,Alcohol Related,Assault in Dean Gardens: Abdullahi Osman
+11/08/2011,Tom Warde,Male,British,None,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager killed in Orpington: Tommie Warde
+11/08/2011,Richard Bowes,Male,British,None,Darrell Desuz,Male,British,Solved,Uncategorised,London Riots: The senseless killing of Richard Bowes
+10/08/2011,Tibor Vass,Male,Hungarian,Knife,Attila Ban,Male,Hungarian,Solved,Sexual,Killer in the Bed: The murders of Alice Adams and Tibor Vass
+10/08/2011,Tibor Vass,Male,Hungarian,Knife,Attila Ban,Male,Hungarian,Solved,Sexual,Killer in the Bed: The murders of Alice Adams and Tibor Vass
+09/08/2011,Trevor Ellis,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Shot during London Riots: Trevor Ellis
+06/08/2011,Samuel Harding,Male,British,Vehicle,NULL,NULL,NULL,Solved,Uncategorised,Death of a Cyclist: Samuel Harding
+06/08/2011,Daniel Famakinwa,Male,British,Gun,Christopher Perry,Male,British,Solved,Uncategorised,Dancer shot dead on night out: Daniel Famakinwa
+22/07/2011,Vitalijs Janovics,Male,Latvian,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Bus stop stabbing in Bermondsey: Vitalijs Janovics
+19/07/2011,Jerry Iyiku,Male,British,Knife,Dagazau Ali,Male,British,Solved,Uncategorised,Stabbed to death in betting shop: Jerry Iyiku
+16/07/2011,Keith Needell,Male,British,Blunt Object,Ali Koc,Male,Turkish,Solved,Uncategorised,Random Violence: The murders of Victor Parsons and Keith Needell
+16/07/2011,Carlos Roberto Oliveria,Male,Brazilian,None,Marcio Dos Santos,Male,Portuguese,Solved,Robbery,Stabbed to death in Burnt Oak: Carlos Roberto Oliveria
+07/07/2011,Umesh Chaudhary,Male,British,Blunt Object,Rostam Ahmadi,Male,Iranian,Solved,Mental Illness,Unprovoked attack in Croydon: Umesh Chaudhary
+05/07/2011,Mumtahina Jannat,Female,Bangladeshi,Ligature,Abdul Kadir,Male,Bangladeshi,Solved,Domestic,Killed by her abusive husband: Mumtahina Jannat
+04/07/2011,Genson Courtney,Male,British,Gun,Robert Bleach,Male,British,Solved,Uncategorised,Stepson of celebrity gangster shot dead: Genson Courtney
+01/07/2011,Yemurai Kanyangarara,Male,British,Knife,Isaac Walters,Male,British,Solved,Teenage Victim,Teen stabbed to death in Welling: Yemurai Kanyangarara
+01/07/2011,Carlton Ned,Male,British,Gun,Christopher Thomas,Male,British,Solved,Uncategorised,Shot dead protecting his family: Carlton Ned
+26/06/2011,Andrew Jaipaul,Male,British,Knife,Allan Kalema,Male,British,Solved,Gang,Innocent caught in gang feud: Andrew Jaipaul
+24/06/2011,Mary Quinn,Female,Irish,Ligature,Thomas Quinn,Male,British,Solved,Domestic,Killed by her Son: Mary Quinn
+23/06/2011,Kenrick Wickham,Male,British,Gun,Devana Palmer,Male,British,Solved,Drug Related,Shot dead in Dulwich: Kenrick Wickham
+22/06/2011,Mahad Mohammed,Male,British,Knife,Chukwurunim Ozour,Male,British,Solved,Uncategorised,Stickem Up Kids: The murder of Mahad Mohammed
+20/06/2011,Sarwat Malik,Female,British,Knife,Farrukh Malik,Male,British,Solved,Domestic,Killed by her husband: Sarwat Malik
+16/06/2011,Shaun Corey,Male,British,Other,Karen Otmani,Female,British,Solved,Domestic,Wheelie Bin Murder: Shaun Corey
+07/06/2011,Krzysztof Rusek,Male,Polish,Knife,Stefan Morgan,Male,British,Solved,Robbery,Killed on his 30th birthday: Krzysztof Rusek
+06/06/2011,Nana Darko-Frempong,Male,British,Gun,Nathan Deacon,Male,British,Solved,"Teenage Victim, Gang",Teen shot dead in Tulse Hill: Nana Darko-Frempong
+31/05/2011,Sadiq Adebiyi,Male,Nigerian,Gun,Jordan Burree,Male,British,Solved,Gang,Stockwell shooting: Sadiq Adebiyi
+30/05/2011,Alper Pasha,Male,British,Blunt Object,Monclair Bartley,Male,British,Solved,Uncategorised,Senseless killing outside KFC: Alper Pasha
+27/05/2011,Clarence Larteh,Male,British,Knife,Mohammed Mohammed,Male,British,Solved,"Alcohol Related, Mental...",Tottenham stabbing: Clarence Larteh
+14/05/2011,Harjit Singh Nijaar,Male,British,Knife,Saqib Khan,Male,British,Solved,Uncategorised,Southall murder: Harjit Singh Nijjar
+12/05/2011,Badi Salam,Male,British,Knife,Marvin Bailey,Male,British,Solved,Mental Illness,Hostel stabbing: Badi Saleem
+11/05/2011,Temidayo Ogunneye,Male,British,Knife,Nathan McLeod,Male,British,Solved,Teenage Victim,Fifteen year-old boy stabbed on estate: Temidayo Ogunneye
+10/05/2011,James Land,Male,British,Knife,Andrew Monk,Male,British,Solved,Drug Related,Pensioner killed in Downham: James Land 
+10/05/2011,Wayne Stockdale,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Gunned down in Bow: Wayne Stockdale
+09/05/2011,Randy Osei-Boateng,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Shot dead in Shepherds Bush: Randy Osei-Boateng
+02/05/2011,Adeniyi Lateef Shode,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Northolt murder: Adeniyi Shode
+27/04/2011,Aaron McQueen-Williams,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Death on the A40: Aaron McQueen-Williams
+25/04/2011,Paulo Lutumba,Male,British,Knife,Paul Kamara,Male,British,Solved,Uncategorised,Stabbed to death in Enfield: Paulo Lutumba
+24/04/2011,Lucinda Port,Female,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Stabbed to death in Bow: Lucinda Port
+20/04/2011,Millad Golmakani,Male,Iranian,Knife,Lij McSween,Male,British,Solved,Gang,Sports pitch murder: Millad Golmakani
+20/04/2011,Zandra Maxwell-Nelson,Female,British,Knife,Nathaniel Brown,Male,British,Solved,Domestic,Stabbed to death in the street: Zandra Maxwell-Nelson
+17/04/2011,Raymond Mitchell,Male,British,Gun,Liam Douglas-O'Callaghan,Male,British,Solved,Uncategorised,Trivial row in McDonalds ends in murder: Devon Scarlett
+14/04/2011,Isaiah Bovell,Male,British,Gun,Raymond Andes,Male,British,Solved,"Robbery, Drug Related",Shot dead in broad daylight: Isaiah Bovell
+10/04/2011,Negus McClean,Male,British,Knife,Travis Bowman,Male,British,Solved,"Teenage Victim, Gang",Postcode War: The murder of Negus McClean
+02/04/2011,Kowshar Hussain,Male,British,Knife,Liam Whitnell,Male,British,Solved,Uncategorised,"Wrong place, wrong time: Kowshar Hussain"
+01/04/2011,Winston Brown,Male,British,Knife,Anthony Townsend,Male,British,Solved,Drug Related,Stabbing in Walthamstow: Winston Brown
+27/03/2011,Kelvin Easton,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Murder at Boheme nightclub: Kelvin Easton
+26/03/2011,Alan Robert Smith,Male,British,Knife,Matthew Quesada,Male,British,Solved,Uncategorised,Murder at the Roma Cafe: Alan Smith
+23/03/2011,Eileen Jones,Female,British,Other,Christopher Newton,Male,British,Solved,Alcohol Related,Pensioner murdered in Bethnal Green: Eileen Jones
+18/03/2011,Wlodzimierz Janusz Szymanski,Male,Polish,None,NULL,NULL,NULL,Unsolved,Uncategorised,A Broken Neck: Wlodzimierz Szymanski
+14/03/2011,Louisa Jane Brannan,Female,British,Knife,Reece Ludlow,Male,British,Solved,Uncategorised,Stabbed to death in Sutton: Louisa Brannan
+11/03/2011,Piotr Maculewicz,Male,Polish,None,Pavel Dunanov,Male,Ukrainian,Solved,Alcohol Related,Colleagues: The killing of Piotr Maculewicz
+07/03/2011,Sunil Koosuru,Male,Indian,Other,Aaron Bhasin,Male,British,Solved,Domestic,Two dead in maisonette fire: Ram Bhasin and Sunil Koosuru
+07/03/2011,Sunil Koosuru,Male,Indian,Other,Aaron Bhasin,Male,British,Solved,Domestic,Two dead in maisonette fire: Ram Bhasin and Sunil Koosuru
+28/02/2011,Solomon Sarfo,Male,Ghanaian,Knife,Jamie Rickerby,Male,British,Solved,Uncategorised,Stabbing in Brixton Hill: Solomon Sarfo
+26/02/2011,Gagandip Singh,Male,British,Other,Darren Peters,Male,British,Solved,Uncategorised,Body in the boot murder: Gagandip Singh
+16/07/2011,Keith Needell,Male,British,Blunt Object,Ali Koc,Male,Turkish,Solved,Uncategorised,Random Violence: The murders of Victor Parsons and Keith Needell
+25/02/2011,Albert Wright,Male,British,Knife,Mark Robinson,Male,British,Solved,Uncategorised,Pensioner stabbed to death at his home: Albert Wright
+20/02/2011,Pat Jobson,Female,British,Blunt Object,Karen Williamson,Female,British,Solved,Robbery,Killed for her jewellery: Pat Jobson
+13/02/2011,Rolls Say,Male,British,Knife,Jean Say,Male,British,Solved,Child Killings (3 to 12...,Father killed son and daughter: Regina and Rolls Say
+13/02/2011,Rolls Say,Male,British,Knife,Jean Say,Male,British,Solved,Child Killings (3 to 12...,Father killed son and daughter: Regina and Rolls Say
+12/02/2011,Samuel Guidera,Male,British,Knife,NULL,NULL,NULL,Unsolved,Robbery,Student stabbed to death in Sydenham: Samuel Guidera
+10/02/2011,Ramnit Chander,Male,Indian,None,NULL,NULL,NULL,Unsolved,Uncategorised,Murder in Southall: Ramnit Chander
+09/02/2011,Csaba Siklodi,Male,Romanian,Knife,Gheorghe Teodorescu,Male,Romanian,Solved,Alcohol Related,Sydenham murder: Csaba Siklodi
+07/02/2011,Siobhan Kelly,Female,British,Blunt Object,Stephen Foad,Male,British,Solved,Alcohol Related,Upper Norwood murder: Siobhan Kelly
+04/02/2011,Santhirapathy Tharmalingam,Female,Sri Lankan,Other,Sandra Clarke,Male,British,Solved,Uncategorised,Fire on the 16th floor: Kunaliny Alagaratnam and Santhirapathy Tharmalingam
+04/02/2011,Santhirapathy Tharmalingam,Female,Sri Lankan,Other,Sandra Clarke,Male,British,Solved,Uncategorised,Fire on the 16th floor: Kunaliny Alagaratnam and Santhirapathy Tharmalingam
+02/02/2011,Lorna Smith,Female,British,Knife,Clifford Mills,Male,British,Solved,Uncategorised,Killed by her Ex: Lorna Smith
+01/02/2011,Anthony Bates,Male,British,None,Dean Swift,Male,British,Solved,Uncategorised,Tortured to death: Anthony Bates
+29/01/2011,Daniel Thompson Graham,Male,British,Knife,Jordan Williams,Male,British,Solved,Teenage Victim,Teen stabbed after football club party: Daniel Graham
+24/01/2011,Michael Winn,Male,British,None,NULL,NULL,NULL,Solved,Child Killings (3 to 12...,12 Years Later: Michael Winn
+24/01/2011,Ezekiel Amosu,Male,British,Vehicle,Cliff Perreira,Male,British,Solved,Teenage Victim,Chased into the path of a bus: Ezekiel Amosu
+21/01/2011,Unknown,Male,British,None,Cameron Rose,Male,British,Solved,Child Killings (3 to 12...,The killing of three-year-old Rhys Lawrie
+20/01/2011,Igor Vinogradov,Male,Russian,None,Paulius Korsakas,Male,Lithuanian,Solved,Alcohol Related,Squatter beaten to death: Igor Vinogradov
+20/01/2011,Kasey Gordon,Male,British,Knife,Serif Aslan,Male,Turkish,Solved,"Teenage Victim, Mental...",The Schizophrenic and the Schoolboys: Kasey Gordon
+19/01/2011,Wing Ho,Male,British,Knife,Andy Ho,Male,British,Solved,Teenage Victim,Inexplicable: The murder of Wing Ho
+16/01/2011,Winston Lloyd Sinclair,Male,British,Knife,Leonora Sinclair,Female,British,Solved,Domestic,Deadly TV Row: Winston Lloyd Sinclair
+11/01/2011,Michal Mazur,Male,Polish,Other,Emlyn Evans-Loude,Male,British,Solved,Uncategorised,Body in the Basement: Michal Mazur
+09/01/2011,Kartik Patel,Male,Indian,Blunt Object,Maulin Patel,Male,Indian,Solved,Uncategorised,Battered to death in Plumstead: Kartik Patel
+06/01/2011,William Reilly,Male,Irish,Other,Melanie Cole,Female,British,Solved,"Drug Related, Robbery",Pensioner murdered in Tottenham: William Reilly
+06/01/2011,Fletcher Allen,Male,British,None,Nathan Allen,Male,British,Solved,Baby Killings (0 to 2...,Baby son killed by his father: Fletcher Allen
+05/01/2011,Paul Duffy,Male,British,Knife,Nadia Boukhari,Female,British,Solved,Alcohol Related,Stabbed to death in Stoke Newington: Paul Duffy
+04/01/2011,Fiza Asif,Female,British,Other,Abdul Jabbar,Male,Pakistani,Solved,Domestic,House fire in Walthamstow: Fiza Asif
+01/01/2011,Jitka Nahodilova,Female,Czech,Knife,Jiri Stuchlik,Male,Czech,Solved,Domestic,Stabbed to death: Jitka Nahodilova
+29/12/2010,Sylvester Akapalara,Male,Nigerian,Gun,David Nyamupfukudza,Male,British,Solved,"Teenage Victim, Gang","Guns, Murders and Girls: The shooting of Sylvester Akapalara"
+25/12/2010,Kristy Bamu,Male,French,Other,Magalie Bamu,Female,French,Solved,Teenage Victim,Christmas Day Murder: Kristy Bamu
+24/12/2010,Anthony Dickson,Male,British,Gun,Anthony Small,Male,British,Solved,Drug Related,Shot dead in Hayes: Anthony Dickson
+19/12/2010,Mohammed Hussain,Male,British,Knife,Ghulam Mustafa,Male,Pakistani,Solved,Uncategorised,Tottenham murder: Mohammed Hussain
+16/12/2010,Nusayba Hassam,Female,British,Knife,Shayma Ali,Female,British,Solved,Child Killings (3 to 12...,Girl stabbed to death: Nusayba Hassam
+14/12/2010,Danny Gough,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Croydon murder: Danny Gough
+14/12/2010,Marcin Porczek,Male,Polish,Other,Krzysztof Szafisz,Male,Polish,Solved,Alcohol Related,Derelict Office Murder: Marcin Porczek
+11/12/2010,Jacqueline Barrett,Female,British,None,Houssam Djemaa,Male,Algerian,Solved,Domestic,Mother-of-three murdered in Cricklewood: Jacqueline Barrett
+09/12/2010,Winifred Crowther,Female,British,Knife,Frank Ronald Crowther,Male,British,Solved,"Domestic, Mental Illness",Tragic stabbing in Sutton: Winifred Crowther
+07/12/2010,Steven Marshall,Male,British,Knife,Jamal Watson,Male,British,Solved,Mental Illness,Homerton murder: Steven Marshall
+06/12/2010,Erik Yepez,Male,Ecuadorean,None,Angel Campoverde,Male,Ecuadorean,Solved,Uncategorised,Killed over Salsa Club row: Erik Yepez
+03/12/2010,Joan Mungall,Female,British,None,Stuart Mungall,Male,British,Solved,"Domestic, Mental Illness",Actor killed terminally ill wife: Joan Mungall
+02/12/2010,Anghel Milosavlevici,Male,Romanian,Other,NULL,NULL,NULL,Solved,Uncategorised,Death at work: Anghel Milosavlevici
+29/11/2010,Sylvester Senyah,Male,British,Knife,Simeon Smith,Male,British,Solved,Gang,Leyton murder: Sylvester Senyah
+28/11/2010,Stephen Ramsey,Male,British,Knife,Paul Moles,Male,British,Solved,Uncategorised,Brentford murder: Stephen Ramsey
+27/11/2010,Bogdan Paduret,Male,Romanian,Gun,Danny Dixon,Male,British,Solved,Uncategorised,Club bouncer shot dead outside his home: Bogdan Paduret
+15/11/2010,Ferell Benjamin,Male,Jamaican,None,Tex Crawford,Male,British,Solved,Drug Related,Kidnapped and murdered: Ferell Benjamin
+13/11/2010,Leroy Burnett,Male,British,Other,Andre Johnson,Male,British,Solved,Uncategorised,Body found after house fire: Leroy Burnett
+10/11/2010,Jayson Hassan,Male,British,Gun,Wayne Wilson,Male,British,Solved,Drug Related,Double shooting in Islington: Lee Wallace and Jayson Hassan
+10/11/2010,Jayson Hassan,Male,British,Gun,Wayne Wilson,Male,British,Solved,Drug Related,Double shooting in Islington: Lee Wallace and Jayson Hassan
+07/11/2010,Sellathurai Easwaran,Male,Sri Lankan,None,Giovanni Castro,Male,Ecuadorean,Solved,Robbery,Killed in Street Robbery: Sellathurai Easwaran
+31/10/2010,Maciej Novak,Male,Polish,Knife,NULL,NULL,NULL,Solved,Alcohol Related,Killed in lawful self defence: Maciej Novak
+27/10/2010,Lee John Hook,Male,British,Gun,Micah Lewis,Male,British,Solved,Uncategorised,Town Centre Shooting: Lee Hook
+27/10/2010,Marvin Henry,Male,British,Gun,Shervin Irvani,Male,British,Solved,Teenage Victim,Teen shot dead on estate: Marvin Henry
+25/10/2010,Sonia Burgess,Male,British,None,Senthooran Kanagasingham,Male,Sri Lankan,Solved,Mental Illness,Lawyer pushed under train: Sonia Burgess
+23/10/2010,Samuel Adelagun,Male,British,Gun,NULL,NULL,NULL,Unsolved,Teenage Victim,Teenager shot dead by masked gunmen: Samuel Adelagun
+23/10/2010,Stephen John Murphy,Male,British,None,Daniel Dunn,Male,British,Solved,Alcohol Related,Waterloo Murder: Stephen John Murphy
+22/10/2010,Anthony Young,Male,British,Vehicle,NULL,NULL,NULL,Solved,Uncategorised,Roadside killing: Anthony Young
+20/10/2010,Ibrahim Kledat,Male,British,Knife,Charles Lansiquot,Male,British,Solved,Drug Related,Body found after flat fire: Ibrahim Kledat
+17/10/2010,Carl David Everson,Male,British,Knife,Tracey Antoinette Van Dungey,Female,British,Solved,"Alcohol Related, Mental...",A Dangerous Woman: The murder of Carl Everson 
+16/10/2010,Kevlin Eurie,Male,British,Knife,Brian Atkinson,Male,British,Solved,Uncategorised,Fatal pub stabbing caught on CCTV: Kevlin Eurie
+15/10/2010,Amanda Farquharson,Female,British,Knife,Keith Van Cooten,Male,British,Solved,Domestic,Stabbed to death in her car: Amanda Farquharson
+12/10/2010,Jimmy Mubenga,Male,Angolan,None,NULL,NULL,NULL,Solved,Uncategorised,Death at Heathrow: Jimmy Mubenga
+21/09/2010,Andrzej Kulesza,Male,Polish,Other,Artur Janik,Male,Polish,Solved,Uncategorised,Kidnapped and murdered: Andrzej Kulesza
+18/09/2010,Siariah Letang,Female,British,Other,Dimitri John-Lewis,Male,British,Solved,Baby Killings (0 to 2...,Baby killed in Camberwell fire: Siariah Letang
+16/09/2010,Imran Farooq,Male,Pakistani,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Politician stabbed to death: Imran Farooq
+11/09/2010,Ricardo Cunha,Male,Portuguese,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Shot dead in targeted attack: Ricardo Cunha
+11/09/2010,Mari-Simon Cronje,Female,British,Vehicle,Princes Sporting Club Ltd,Male,British,Solved,Uncategorised,Banana Boat Tragedy: Mari-Simon Cronje
+09/09/2010,Michael Zubrot,Male,British,Knife,Mohammed Khaleel,Male,British,Solved,Uncategorised,Pensioner stabbed to death: Michael Zubrot
+09/09/2010,Harbharjan Singh,Male,Indian,Blunt Object,Jaswinder Singh,Male,Indian,Solved,Uncategorised,Homeless man killed near cemetery: Harbharjan Singh
+08/09/2010,Beata Slomiana,Female,Polish,None,Asaad Abdel-All,Male,Egyptian,Solved,Domestic,Body found in locked flat: Beata Slomiana
+06/09/2010,Ghada Habib,Female,Iraqi,Blunt Object,Salah Nashia,Male,Iraqi,Solved,Uncategorised,Iraqi artist beaten to death at her home: Ghada Habib
+06/09/2010,Wais Tanha,Male,Afghan,Other,NULL,NULL,NULL,Solved,Teenage Victim,Death at a kebab shop: Wais Tanha
+06/09/2010,Rio McFarlane,Male,British,Gun,Leon Pacquette,Male,British,Solved,"Teenage Victim, Gang",Teenage footballer gunned down in street: Rio McFarlane
+05/09/2010,Norman Barrett,Male,Jamaican,Knife,Tobi Henry,Male,British,Solved,Uncategorised,Stabbed to death in Sydenham: Norman Barrett
+27/08/2010,Pat Irwin,Male,British,Knife,John Moore,Male,British,Solved,Alcohol Related,Stabbed to death outside a pub: Pat Irwin
+26/08/2010,Amanda Beresford,Female,British,Other,Jeffrey Clarke,Male,British,Solved,Domestic,Too scared to seek help: Amanda Beresford
+23/08/2010,Gareth Williams,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,MI6 spy mystery: Gareth Williams
+17/08/2010,Jaypee Maderazo,Male,Filipino,None,NULL,NULL,NULL,Solved,Drug Related,The Tattooed Man: Jaypee Maderazo
+12/08/2010,Antonia Belska,Female,Latvian,Knife,Sergei Zolotovsky,Male,Latvian,Solved,Domestic,Mother and daughter murdered: Antonina Belska and Svetlana Zolotovska
+12/08/2010,Antonia Belska,Female,Latvian,Knife,Sergei Zolotovsky,Male,Latvian,Solved,Domestic,Mother and daughter murdered: Antonina Belska and Svetlana Zolotovska
+07/08/2010,Toni Rudman,Female,British,None,Ryan Backhouse,Male,British,Solved,"Drug Related, Alcohol...",Chosen at Random: The murder of Toni Rudman
+05/08/2010,Geoffrey Bacon,Male,British,None,NULL,NULL,NULL,Unsolved,Robbery,Death of a WWII veteran: Geoffrey Bacon
+29/07/2010,Sandra Voicehovska,Female,Russian,Knife,NULL,NULL,NULL,Solved,Domestic,Stabbed in the heart: Sandra Voicehovska
+26/07/2010,Malcolm Boxall,Male,British,Knife,NULL,NULL,NULL,Solved,Alcohol Related,Stabbed to death on his doorstep: Malcolm Boxall
+20/07/2010,Peter Joseph,Male,Indian,Knife,NULL,NULL,NULL,Solved,Mental Illness,Killed by his colleague: Peter Joseph
+20/07/2010,Rolandas Vosylius ,Male,Lithuanian,None,Vygantas Ciapas,Male,Lithuanian,Solved,Uncategorised,Death at a railway station: Rolandas Vosylius
+18/07/2010,Lenny Kempley,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Convicted armed robber killed in pub row: Lenny Kempley
+17/07/2010,Grazyna Lewandowska,Female,Polish,None,NULL,NULL,NULL,Unsolved,Uncategorised,Death in Hackney squat: Grazyna Lewandowska
+09/07/2010,Osman Grbic,Male,Albanian,Gun,Hajdar Kasumaj,Male,Albanian,Solved,Mental Illness,Two men shot dead by disturbed gunman: Osman Grbic and Nezir Golaj
+09/07/2010,Osman Grbic,Male,Albanian,Gun,Hajdar Kasumaj,Male,Albanian,Solved,Mental Illness,Two men shot dead by disturbed gunman: Osman Grbic and Nezir Golaj
+07/07/2010,Eugene Brown,Male,British,Gun,Michael Smith,Male,British,Solved,Gang,Double shooting outside a club: Patrick Ford and Eugene Brown
+06/07/2010,Ailton Campos de Oliveira,Male,Portuguese,Knife,Virally Okokono,Male,British,Solved,"Teenage Victim, Gang",Teenager stabbed in East Ham: Ailton Campos de Oliveira
+05/07/2010,Wayne Powell,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,DJ and family man shot dead: Wayne Powell
+04/07/2010,Donna Drepaul,Female,Guyanese,Other,Aiah Tondoneh,Male,British,Solved,"Domestic, Crimes of...",Woman set on fire by boyfriend: Donna Drepaul
+02/07/2010,Zac Olumegbon,Male,British,Knife,Shaquille Haughton,Male,British,Solved,"Teenage Victim, Gang",Fifteen year-old boy stabbed outside school gates: Zac Olumegbon
+24/06/2010,Beryl Gilchrist,Female,British,Knife,Jermaine Gilchrist,Male,British,Solved,"Mental Illness, Domestic",Killed by her son: Beryl Gilchrist
+23/06/2010,Michael Ofori,Male,British,Gun,Jules Brown,Male,British,Solved,Gang,Shot dead in a Mercedes: Michael Ofori
+19/06/2010,Michael Okonko-Nwosu,Male,British,None,NULL,NULL,NULL,Unsolved,Uncategorised,Minicab driver battered to death: Michael Okonko-Nwoso
+17/06/2010,Czarina Baker,Female,British,Ligature,NULL,NULL,NULL,Solved,Uncategorised,Strangled by her partner: Czarina Baker
+09/06/2010,Jaabe Roberts,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Jaabe Roberts: Stabbed in Shepherds Bush
+01/06/2010,Samuel Ogunro,Male,British,Gun,Ola Apena,Male,British,Solved,Teenage Victim,Teenager shot dead on orders of gang member: Samuel Ogunro
+30/05/2010,Keith Drummond,Male,British,Knife,Mark Drummond,Male,British,Solved,"Mental Illness, Domestic",Killed by his son: Keith Drummond
+30/05/2010,Matthew Clement,Male,British,Gun,Taurean Davis,Male,British,Solved,Uncategorised,Shot dead in the street: Matthew Clement
+07/07/2010,Eugene Brown,Male,British,Gun,Michael Smith,Male,British,Solved,Gang,Double shooting outside a club: Patrick Ford and Eugene Brown
+22/05/2010,Daniel Omari Smith,Male,British,Gun,NULL,NULL,NULL,Unsolved,Gang,Mistaken Identity?: The unsolved murder of Daniel Smith
+19/05/2010,Joan Chopping,Female,British,Ligature,Edward Chopping,Male,British,Solved,"Domestic, Mental Illness",Mercy killing by devoted husband: Joan Chopping
+15/05/2010,Irene Barrett,Female,British,Knife,Daniel Franklin,Male,British,Solved,"Robbery, Drug Related",Horrific murder of Great-Grandmother: Irene Barrett
+09/05/2010,Marcin Bilaszewski,Male,Polish,Knife,NULL,NULL,NULL,Solved,Teenage Victim,Marcin Bilaszewski murder: Stabbing in Finsbury Park
+07/05/2010,Joseph Hylton,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Ruthless Execution: The murder of Joseph Hylton
+05/05/2010,Nicholas Pearton,Male,British,Knife,Edward Conteh,Male,British,Solved,"Teenage Victim, Gang",Nicholas Pearton murder: Ambush in Sydenham Park
+04/05/2010,Robert Anthony Lewis,Male,British,Blunt Object,Adrian Johnson,Male,British,Solved,Mental Illness,Robert Lewis: Death in Sutton Hostel
+03/05/2010,Nathan Allen,Male,British,Gun,Bosun Sode,Male,British,Solved,Gang,Gang shooting in New Cross: Nathan Allen
+26/04/2010,Danny Tyseon,Male,British,Knife,NULL,NULL,NULL,Solved,Alcohol Related,Killing for fun: The murder of Danny Tyson
+24/04/2010,Michael Crawley,Male,British,Poison,Sasha Mills,Female,British,Solved,"Drug Related, Alcohol...",A Fatal Injection: Michael Crawley
+23/04/2010,Robert Daley,Male,British,Knife,"Girl, 15 [b. 1995]",Male,British,Solved,Uncategorised,Revenge attack on suspected paedophile: Robert Daley
+23/04/2010,Charlie Wright,Male,British,Gun,Colin Anderson,Male,British,Solved,"Teenage Victim, Drug...",Teen caught up in drugs turf war: Charlie Wright
+18/04/2010,Wesley Sterling,Male,British,Knife,Carleto Salmons,Male,Jamaican,Solved,Teenage Victim,Murder at a 16th Birthday Party: Wesley Sterling
+16/04/2010,Agnes Sina-Inakoju ,Female,British,Gun,Mohammed Smoured,Male,Algerian,Solved,"Teenage Victim, Gang",Innocent victim of a gangland feud: Agnes Sina-Inakoju
+14/04/2010,Samuel Fitzgerald,Male,British,Knife,Anthony Leader,Male,British,Solved,Uncategorised,Stabbed with a golf club: Samuel Fitzgerald
+13/04/2010,Indra Tharmananthan,Female,Sri Lankan,Ligature,NULL,NULL,NULL,Solved,"Domestic, Mental Illness",Pensioner strangled at home: Indra Tharmananthan
+11/04/2010,Errol McKenzie,Male,British,Gun,NULL,NULL,NULL,Unsolved,Uncategorised,Murder on the Playing Fields: Errol McKenzie
+09/04/2010,Gurmukh Singh Chahal,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Industrial Estate Murder: Gurmukh Singh Chahal
+09/04/2010,Prodip Debnath,Male,Bangladeshi,None,Kamran Uzzaman,Male,Bangladeshi,Solved,Mental Illness,Mile End Hospital murder: Prodip Debnath
+09/04/2010,Mark Carey Johnson,Male,British,Knife,NULL,NULL,NULL,Solved,Drug Related,Brixton knife murder: Mark Johnson
+04/04/2010,Doris Langlands,Female,British,None,NULL,NULL,NULL,Solved,Domestic,Killed by her grandson: Doris Langlands
+04/04/2010,Tadas Sabaitas,Male,British,Knife,NULL,NULL,NULL,Solved,Uncategorised,Easter Sunday murder: Tadas Sabaitas
+03/04/2010,Aliza Ahmed Mirza,Female,British,Knife,NULL,NULL,NULL,Solved,Teenage Victim,Teenage heartbreak leads to murder: Aliza Mirza
+27/03/2010,Godwin Nii Lawson,Male,British,Knife,NULL,NULL,NULL,Solved,Teenage Victim,Godwin Lawson murder: Hackney park stabbing
+25/03/2010,Fathi Bouchareb,Male,Algerian,Other,NULL,NULL,NULL,Solved,Uncategorised,Bedford Square murder: Fathi Bouchareb
+25/03/2010,Sofyen Belamouadden,Male,British,Knife,Junior Bayode,Male,British,Solved,"Teenage Victim, Gang",Teenage gangs at Victoria Station: Sofyen Belamouadden
+24/03/2010,Howarum Begum,Female,Bangladeshi,Blunt Object,Mohammed Alauddin,Male,Bangladeshi,Solved,Mental Illness,The Apple of her Eye: Howarum Begum
+22/03/2010,Gulistan Subasi,Female,Turkish,Gun,Izak Billy,Male,British,Solved,Gang,Britain's Youngest Hitman: The Murder of Gulistan Subasi
+21/03/2010,Ezra Mills,Male,British,Gun,NULL,NULL,NULL,Solved,Gang,Ezra Mills: Gipsy Hill shooting 
+21/03/2010,Alvydas Miksys,Male,Lithuanian,Blunt Object,Sigitas Grigaliunas,Male,Lithuanian,Solved,Uncategorised,The Unknown Grudge: Alvydas Miksys
+18/03/2010,Ibrahim Gharib,Male,British,None,Misba Chowdhury,Male,British,Solved,Uncategorised,Shadwell Basin drowning: Ibrahim Gharib
+13/03/2010,Abdel-Salam Hussain Abdel-Salam,Male,Sudanese,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Human Rights worker found dead at home: Abdel Salam
+12/03/2010,Carmen Stanescu,Female,Romanian,Knife,Afzal Hussain,Male,British,Solved,Domestic,A Vulnerable Wife: Carmen Stanescu
+10/03/2010,Mohammed Taki,Male,Iraqi,Other,NULL,NULL,NULL,Solved,Uncategorised,Body under the patio: Mohammed Taki
+07/03/2010,Mahmood Ahmad,Male,British,Other,NULL,NULL,NULL,Solved,Uncategorised,Kidnapped and tortured to death: Mahmood Ahmad
+07/03/2010,Kelvin Francis,Male,Grenadian,Knife,Daniel Smith aka David Kazim,Male,Grenadian,Solved,Uncategorised,Kelvin Francis: Fish and Chip Shop Murder
+05/03/2010,Maria Coelho,Female,Portuguese,Other,Rui Borges,Male,Portuguese,Solved,Domestic,Suffocated with a shirt: Maria Coelho
+04/03/2010,Jessie Wright,Female,British,None,Zakk Sackett,Male,British,Solved,"Teenage Victim, Sexual",Beauty and the Beast: The murder of Jessie Wright
+24/02/2010,Hannah Fitzgibbon,Female,British,Knife,Michael Fitzgibbon,Male,British,Solved,"Domestic, Mental Illness",Britain's oldest stabbing victim: Hannah Fitzgibbon
+19/02/2010,Olukorede Fajinmi,Male,British,Knife,NULL,NULL,NULL,Solved,"Teenage Victim, Gang",Gang fight in Beckton: Olukorede Fajinmi
+15/02/2010,Bandar Abdullah Abdulaziz,Male,Saudi,None,Saud Abdulaziz Bin Nasser al Saud,Male,Saudi,Solved,Sexual,The Saudi Prince and his manservant
+14/02/2010,Mark Corcoran,Male,British,Knife,NULL,NULL,NULL,Unsolved,Uncategorised,Valentines Day Murder: Mark Corcoran
+14/02/2010,James Hughes,Male,Irish,Other,David Sellu,Male,British,Solved,Uncategorised,Negligence: The death of James Hughes
+09/02/2010,Ajit Singh,Male,British,Poison,NULL,NULL,NULL,Solved,Child Killings (3 to 12...,Autistic boy forced to drink bleach: Ajit Singh
+04/02/2010,Frank Hancock,Male,British,Other,NULL,NULL,NULL,Unsolved,Alcohol Related,Burning Man Mystery: Frank Hancock
+15/01/2010,Isschan Nicholls,Male,British,Knife,Simeon Hunter,Male,British,Solved,"Teenage Victim, Gang",Enemy Territory: Isschan Nicholls
+13/01/2010,Ugarajan Swaminathan,Male,Sri Lankan,Other,Jastin Chandrakanthan,Male,Sri Lankan,Solved,Domestic,Neighbours in Death
+08/01/2010,Maria Colaco,Female,British,None,Andrew Gaffney,Male,British,Solved,"Domestic, Alcohol Related",A tragic New Year: The murder of Maria Colaco
+08/01/2010,Sukhwinder Singh,Male,British,Knife,NULL,NULL,NULL,Unsolved,Robbery,Good Samaritan Murder: Sukhwinder Singh
+06/01/2010,Mahmood Jama,Male,British,Gun,NULL,NULL,NULL,Solved,Drug Related,Drugs and Guns: Mahmood Jama
+05/01/2010,Johnson Ndjoli,Male,British,Vehicle,NULL,NULL,NULL,Solved,Teenage Victim,Left in a coma: Johnson Ndjoli
+04/01/2010,Frazer Bradshaw,Male,British,None,NULL,NULL,NULL,Solved,Alcohol Related,Peacemaker dies trying to stop New Year brawl
+01/01/2010,Darren Deslandes,Male,British,Gun,NULL,NULL,NULL,Solved,Gang,New Year Revenge: Darren Deslandes
